@@ -1,0 +1,41 @@
+#!/bin/bash
+
+# SIAB
+if [ -x /etc/rc.d/siab.sh ]; then
+   /etc/rc.d/siab.sh
+fi
+
+
+#  autoslack-initrd
+#if [ -x /etc/rc.d/autoslack-initrd.sh ]; then
+#   /etc/rc.d/autoslack-initrd.sh
+#fi
+
+# slackup-grub
+#if [ -x /etc/rc.d/slackup-grub.sh ]; then
+#   /etc/rc.d/slackup-grub.sh
+#fi
+
+# Stop switcheroo-control
+if [ -x /etc/rc.d/rc.switcheroo-control ]; then
+  /etc/rc.d/rc.switcheroo-control stop 
+fi
+
+# Stop libvirt daemon
+ if [ -x /etc/rc.d/rc.libvirt ]; then
+ /etc/rc.d/rc.libvirt stop
+ fi
+
+# Stop avahidnsconfd
+  if [ -x /etc/rc.d/rc.avahidnsconfd ]; then
+  /etc/rc.d/rc.avahidnsconfd stop
+  fi
+
+#Stop avahidaemon
+  if [ -x /etc/rc.d/rc.avahidaemon ]; then
+  /etc/rc.d/rc.avahidaemon stop
+  fi
+
+if [ -x /etc/rc.d/rc.docker ]; then
+    /etc/rc.d/rc.docker stop
+  fi
