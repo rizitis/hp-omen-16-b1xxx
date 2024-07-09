@@ -1,0 +1,46 @@
+#!/bin/bash
+#
+# /etc/rc.d/rc.local:  Local system initialization script.
+#
+# Put any local startup commands in here.  Also, if you have
+# anything that needs to be run at shutdown time you can
+# make an /etc/rc.d/rc.local_shutdown script and put those
+# commands in there.
+# Start switcheroo-control
+if [ -x /etc/rc.d/rc.switcheroo-control ]; then
+  /etc/rc.d/rc.switcheroo-control start
+fi
+
+#Start avahidaemon
+  if [ -x /etc/rc.d/rc.avahidaemon ]; then
+  /etc/rc.d/rc.avahidaemon start
+  fi
+
+ if [ -x /etc/rc.d/rc.avahidnsconfd ]; then
+  /etc/rc.d/rc.avahidnsconfd start
+  fi
+
+/etc/rc.d/rc.zram
+
+
+ #Start libvirt daemon
+ if [ -x /etc/rc.d/rc.libvirt ]; then
+ /etc/rc.d/rc.libvirt start
+ fi
+ 
+ sed -i 's/kfmclient_dir.desktop/org.gnome.Nautilus.desktop/g' /usr/share/applications/mimeinfo.cache
+
+#echo -e '\nset:' >>/dev/shm/onboot
+#set >>/dev/shm/onboot
+#echo -e '\nenv:' >>/dev/shm/onboot
+#env >>/dev/shm/onboot
+#echo -e 'kernel-version' >> /dev/shm/onboot
+#cat /proc/version >> /dev/shm/onboot
+#echo  -e 'kmsg:' >> /dev/shm/onboot
+#cat /proc/kmsg >> /dev/shm/onboot & sleep 3 && killall cat
+#chmod 600 /dev/shm/onboot && chown root:root /dev/shm/onboot 
+
+if [ -x /etc/rc.d/rc.docker ]; then
+    /etc/rc.d/rc.docker start
+  fi
+updatedb
