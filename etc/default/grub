@@ -1,7 +1,7 @@
 # If you change this file, run grub-mkconfig -o /boot/grub/grub.cfg
 # afterwards to update /boot/grub/grub.cfg.
 
-GRUB_DEFAULT=3
+GRUB_DEFAULT=0
 #GRUB_HIDDEN_TIMEOUT=0
 GRUB_HIDDEN_TIMEOUT_QUIET=false
 GRUB_TIMEOUT=10
