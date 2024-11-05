@@ -1,9 +1,20 @@
 #!/bin/bash
 
 # Anagnostakis Ioannis GR (rizitis) 04/2024
-# Slackware Initrd And Bootloader (siab) is a merge of 3 projects.
-# autoslack-initrd, slackup-grub and auto-elilo.
 # You can use it on UEFI Slackware64 systems.
+
+#---------------INSTALLATION-----------------------#
+# cp siab.sh in /etc/rc.d/ && chmod +c /etc/rc.d/siab.sh
+
+#-------ADD TO /etc/rc.drc/local_shutdown----------#
+#
+#if [ -x /etc/rc.d/siab.sh ]; then
+#  /etc/rc.d/siab.sh
+#fi
+
+#         COMMAND              #
+# su -c /etc/rc.d/siab.sh
+#---------------------------------------------------#
 
 # Redistribution and use of this script, with or without modification, is
 # permitted provided that the following conditions are met:
@@ -112,10 +123,8 @@ then
 /bin/ls -tr /var/lib/pkgtools/packages | grep kernel | tail -2 > "$file"
 fi
 
-# we will remove the "-c" (clear) option from mkinitrd, else if second generic kernel exist...boom
+
 filename="autoslack-initrd.sh"
-Clear="mkinitrd -c"
-NOClear="mkinitrd"
 if cmp -s autoslack-initrd.TXT autoslack-initrd.BAK ; then
 echo "autoslack-initrd message:"
 echo "NO KERNEL UPDATE WAS FOUND"
@@ -132,11 +141,7 @@ sed -i '$d' /usr/local/autoslack-initrd/autoslack-initrd
 wait 
 VERSION=$(cat $file3)
 echo "$VERSION"
-bash /usr/share/mkinitrd/mkinitrd_command_generator.sh -k "$VERSION" > /usr/local/autoslack-initrd/autoslack-initrd.sh
-sleep 1
-sed -i "s/$Clear/$NOClear/" /usr/local/autoslack-initrd/autoslack-initrd.sh
-wait
-bash /usr/local/autoslack-initrd/autoslack-initrd.sh
+/usr/bin/dracut --kver "$VERSION" /boot/initramfs-"$VERSION".img
 echo "autoslack-initrd finish its job"
 echo "time for bootloader to do its job..."
 echo ""
@@ -156,7 +161,7 @@ then
 echo "slackup-grub is installed"
 else
 mkdir -p "$dirg"
-/bin/ls -tr /var/log/pkgtools/removed_scripts/ | grep kernel | tail -4 > "$fileg"
+/bin/ls -tr /var/log/pkgtools/removed_scripts/ | grep kernel | tail -3 > "$fileg"
 echo "Looks like you are running slackup-grub for first time?"
 exit
 fi
@@ -177,7 +182,7 @@ set -e
 
 if [ -f "$fileg2" ]
 then 
-/bin/ls -tr /var/log/pkgtools/removed_scripts/ | grep kernel | tail -4 > "$fileg"
+/bin/ls -tr /var/log/pkgtools/removed_scripts/ | grep kernel | tail -3 > "$fileg"
 fi
 
 if cmp -s slackup-grub.TXT slackup-grub.BAK ; then
@@ -196,7 +201,7 @@ then
 echo "auto-elilo is installed"
 else
 mkdir -p "$direl"
-/bin/ls -tr /var/log/pkgtools/removed_scripts/ | grep kernel | tail -4 > "$fileel"
+/bin/ls -tr /var/log/pkgtools/removed_scripts/ | grep kernel | tail -3 > "$fileel"
 echo "Looks like you are running auto-elilo for first time?"
 exit
 fi
@@ -217,7 +222,7 @@ set -e
 
 if [ -f "$fileel2" ]
 then 
-/bin/ls -tr /var/log/pkgtools/removed_scripts/ | grep kernel | tail -4 > "$fileel"
+/bin/ls -tr /var/log/pkgtools/removed_scripts/ | grep kernel | tail -3 > "$fileel"
 fi
 
 if cmp -s auto-elilo.TXT auto-elilo.BAK ; then
