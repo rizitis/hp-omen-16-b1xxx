@@ -1,0 +1,52 @@
+# Default options for /usr/sbin/geninitrd:
+
+# Would you rather run a custom script instead of /usr/sbin/geninitrd?
+# If so, set it below and it will be used instead:
+#GENINITRD_OVERRIDE_SCRIPT=/usr/local/sbin/geninitrd-custom
+
+# This variable defines the kernel that the initrd should be made for.
+# However, if a kernel is provided on the command line:
+# geninitrd /boot/vmlinuz-6.12.1
+# Then this will be used instead.
+# The value of KERNEL is also not replaced if it was already defined:
+# KERNEL=/boot/vmlinuz-6.12.1 geninitrd
+# If there's no kernel defined by the command line or by the KERNEL
+# variable, then as a last resort we'll use the newest kernel we find
+# in /boot.
+KERNEL=/boot/vmlinuz-generic
+
+# In addition to the initrd with a name like initrd-6.11.6.img,
+# should we make a compatibility symlink such as initrd-generic.img?
+# GRUB doesn't require this, but lilo and elilo might.
+GENINITRD_NAMED_SYMLINK=true
+
+# In addition to the initrd with a name like initrd-6.11.6.img,
+# should we make a compatibility symlink named initrd.gz?
+# GRUB doesn't require this, but lilo and elilo might.
+GENINITRD_INITRD_GZ_SYMLINK=false
+
+# Which initrd generating tool should we use?
+# The supported options are mkinitrd_command_generator.sh,
+# mkinitrd (falls back to mkinitrd_command_generator.sh if
+# there is no /etc/mkinitrd.conf), or dracut.
+GENERATOR=dracut
+
+# If we are using dracut, we'll use these options:
+DRACUT_OPTS="--force --hostonly"
+
+# Should we allow the kernel install script to automatically
+# generate an initrd?
+AUTOGENERATE_INITRD=true
+
+# Should we automatically remove "orphaned" initrds, i.e. any initrd that
+# does not have a matching kernel version in /boot?
+AUTO_REMOVE_ORPHANED_INITRDS=false
+
+# Run update-grub after generating the initrd?
+AUTO_UPDATE_GRUB=true
+
+# Should we display the dialog splash screen?
+GENINITRD_DIALOG=false
+
+# Should we display the output from commands that are run by geninitrd?
+GENINITRD_COMMAND_OUTPUT=true

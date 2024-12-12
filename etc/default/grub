@@ -7,8 +7,8 @@ GRUB_DEFAULT=0
 GRUB_HIDDEN_TIMEOUT_QUIET=false
 GRUB_TIMEOUT=10
 GRUB_DISTRIBUTOR=$( sed 's/Slackware /Slackware-/' /etc/slackware-version )
-GRUB_CMDLINE_LINUX_DEFAULT="snd-hda-intel dmic_detect=0,snd_intel_dspcfg.dsp_driver=1"
-GRUB_CMDLINE_LINUX=""
+GRUB_CMDLINE_LINUX_DEFAULT="snd-hda-intel ipv6.disable=1 dmic_detect=0,snd_intel_dspcfg.dsp_driver=1"
+GRUB_CMDLINE_LINUX="ipv6.disable=1  kvm.enable_virt_at_load=0"
 
 # Description: Loads specific modules before booting.
 # GRUB_PRELOAD_MODULES="part_gpt part_msdos"
@@ -34,7 +34,7 @@ GRUB_FONT=/usr/share/grub/dejavusansmono.pf2
 #GRUB_DISABLE_LINUX_UUID=true
 
 # Uncomment to disable generation of recovery mode menu entries:
-GRUB_DISABLE_RECOVERY="true"
+#GRUB_DISABLE_RECOVERY="true"
 
 # Search for other operating systems with os-prober.
 # If you don't want this, you can do any of these things to disable it:
@@ -55,7 +55,7 @@ GRUB_DISABLE_SUBMENU="false"
 # What kernel filetypes to display in the menu. This may be set to "files"
 # (only display kernels that are files), "symlinks" (only display kernels
 # that are symbolic links), or "both".
-GRUB_DISPLAY_KERNEL_FILETYPES="symlinks"
+GRUB_DISPLAY_KERNEL_FILETYPES="both"
 
 # GRUB themes or custom image.png
 GRUB_THEME="/boot/grub/themes/darkmatter/theme.txt"
@@ -90,4 +90,4 @@ GRUB_THEME="/boot/grub/themes/darkmatter/theme.txt"
 
 # GRUB_ENABLE_CRYPTODISK
 # Options: y, n.
-# GRUB_ENABLE_CRYPTODISK=y
+# GRUB_ENABLE_CRYPTODISK=
