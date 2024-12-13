@@ -7,7 +7,7 @@ GRUB_DEFAULT=0
 GRUB_HIDDEN_TIMEOUT_QUIET=false
 GRUB_TIMEOUT=10
 GRUB_DISTRIBUTOR=$( sed 's/Slackware /Slackware-/' /etc/slackware-version )
-GRUB_CMDLINE_LINUX_DEFAULT="snd-hda-intel ipv6.disable=1 dmic_detect=0,snd_intel_dspcfg.dsp_driver=1"
+GRUB_CMDLINE_LINUX_DEFAULT="acpi_osi=Linux snd-hda-intel ipv6.disable=1 dmic_detect=0,snd_intel_dspcfg.dsp_driver=1"
 GRUB_CMDLINE_LINUX="ipv6.disable=1  kvm.enable_virt_at_load=0"
 
 # Description: Loads specific modules before booting.
