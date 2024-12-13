@@ -1,6 +1,9 @@
 #!/bin/bash
 . /etc/profile
 
+#[ -f /etc/profile.d/bash_completion.sh ] && . /etc/profile.d/bash_completion.sh
+complete -cf sudo
+
 
 ##### = EXPORTS = ####
 
@@ -17,9 +20,9 @@ export GOBIN=$HOME/go/bin
 export PATH="$PATH:/home/omen/.local/bin"
 export PATH="/usr/sbin:$PATH"
 #export JAVA_HOME=/usr/lib64/zulu-openjdk8
-#export PATH=$JAVA_HOME/bin:$PATH
+export PATH=$JAVA_HOME/Bin:$PATH
 export PATH="$PATH:$HOME/.cargo/bin"
-#.  ~/.local/share/applications/org.gnome.Nautilus.desktop
+#.  ~/.local/share/applications/org.gnome.us.desktop
 #export MANPAGER="bat -l man -p' "
 export GI_TYPELIB_PATH=/usr/lib64/girepository-1.0
 export ANDROID_SDK_ROOT=/home/omen/Android/Sdk
@@ -34,6 +37,9 @@ export HISTCONTROL=erasedups:ignoredups:ignorespace
 export PATH="$PATH:/home/omen/.cache/lm-studio/bin"
 #source /home/omen/BUILDS/bash/ladybird/scripts/vcpkg_completion.bash
 export VIM="/usr/share/vim"
+export PATH=$PATH:/home/omen/.npm-global/bin
+#export PATH="$HOME/.npm-global/bin:$PATH"
+#export NODE_PATH=$HOME/node_modules
 
 
 
@@ -56,7 +62,6 @@ alias img2gif="cat ~/Templates/img2gif"
 alias l6="/usr/bin/linguist6"
 #export MANPAGER="tspin | bat"
 alias julia="$HOME/julia-1.9.3/bin/julia"
-alias xdg-open='nohup nautilus . > /dev/null 2>&1 &'
 alias kts='ktsuss'
 alias detach='disown -a && exit'
 alias AAA='cp ~/Templates/AAA.SlackBuild .'
@@ -159,7 +164,7 @@ alias mkgz='tar -cvzf'
 alias logs="sudo find /var/log -type f -exec file {} \; | grep 'text' | cut -d' ' -f1 | sed -e's/:$//g' | grep -v '[0-9]$' | xargs tail -f"
 alias krnl="uname -r"
 alias cpu="grep 'cpu ' /proc/stat | awk '{usage=(\$2+\$4)*100/(\$2+\$4+\$5)} END {print usage}' | awk '{printf(\"%.1f\n\", \$1)}'"
-
+alias gitfix="git fetch &&  git reset --hard origin/main"
 
 
 
@@ -586,3 +591,33 @@ PROMPT_COMMAND='__setprompt'
 #ulimit -u 65535
 #ulimit -v unlimited
 
+# enable programmable completion features (you don't need to enable
+# this, if it's already enabled in /etc/bash.bashrc and /etc/profile
+# sources /etc/bash.bashrc).
+if ! shopt -oq posix; then
+	if [[ -f /usr/share/bash-completion/bash_completion ]]; then
+		# shellcheck source=/dev/null
+		. /usr/share/bash-completion/bash_completion
+	elif [[ -f /etc/bash_completion ]]; then
+		# shellcheck source=/dev/null
+		. /etc/bash_completion
+	elif [[ -f /usr/local/etc/bash_completion ]]; then
+		# shellcheck source=/dev/null
+		. /usr/local/etc/bash_completion
+	fi
+fi
+if [[ -d /etc/bash_completion.d/ ]]; then
+	for file in /etc/bash_completion.d/* ; do
+		# shellcheck source=/dev/null
+		source "$file"
+	done
+fi
+
+# We do this before the following so that all the paths work.
+for file in ~/.{bash_prompt,aliases,functions,path,dockerfunc,extra,exports}; do
+	if [[ -r "$file" ]] && [[ -f "$file" ]]; then
+		# shellcheck source=/dev/null
+		source "$file"
+	fi
+done
+unset file
