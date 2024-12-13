@@ -1,0 +1,17 @@
+chromaprint
+faac
+gst-plugins-ugly
+gstreamermm
+jpegoptim
+libayatana-appindicator
+libayatana-indicator
+libupnp
+mm-common
+oxipng
+postgresql
+scour
+shellcheck-bin
+smplayer
+smplayer-skins
+smplayer-themes
+twolame

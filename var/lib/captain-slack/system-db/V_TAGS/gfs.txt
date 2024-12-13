@@ -1,0 +1,17 @@
+AppStream=_gfs
+clutter=_gfs
+colord-gtk=_gfs
+gnome-desktop=_gfs
+gnome-software=_gfs
+grilo=_gfs
+ibus-gtk4=_gfs
+libdex=_gfs
+libnma-gtk4=_gfs
+liboauth=_gfs
+libpeas=_gfs
+libportal=_gfs
+malcontent=_gfs
+sysprof=_gfs
+totem-pl-parser=_gfs
+webkit2gtk4.1=_gfs
+xvfb-run=_gfs

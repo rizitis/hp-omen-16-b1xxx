@@ -1,0 +1,10 @@
+containerd
+docker
+docker-compose
+gme
+gst-plugins-bad0
+gst-plugins-ffmpeg0
+libreoffice
+openjdk17
+runc
+vlc

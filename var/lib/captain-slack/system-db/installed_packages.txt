@@ -1,0 +1,2044 @@
+
+Package: AppStream, Version: 1.0.3, Architecture: x86_64, Build Version: 1, Tag: gfs
+Package: Cython, Version: 3.0.11, Architecture: x86_64, Build Version: 2
+Package: GConf, Version: 3.2.6, Architecture: x86_64, Build Version: 8
+Package: Greybird, Version: 3.22.15, Architecture: noarch, Build Version: 1
+Package: Imath, Version: 3.1.12, Architecture: x86_64, Build Version: 1
+Package: LibRaw, Version: 0.21.3, Architecture: x86_64, Build Version: 1
+Package: MPlayer, Version: 20240812, Architecture: x86_64, Build Version: 1
+Package: Mako, Version: 1.3.5, Architecture: x86_64, Build Version: 2
+Package: Microsoft-Fonts, Version: ae52d80_git, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: ModemManager, Version: 1.22.0, Architecture: x86_64, Build Version: 1
+Package: NetworkManager, Version: 1.50.0, Architecture: x86_64, Build Version: 1
+Package: NetworkManager-openvpn, Version: 1.12.0, Architecture: x86_64, Build Version: 1
+Package: ORBit2, Version: 2.14.19, Architecture: x86_64, Build Version: 4, Tag: SBo
+Package: OpenCC, Version: 1.1.9, Architecture: x86_64, Build Version: 1
+Package: PyQt-builder, Version: 1.17.0, Architecture: x86_64, Build Version: 1
+Package: PyQt5, Version: 5.15.11, Architecture: x86_64, Build Version: 3
+Package: PyQt5_sip, Version: 12.16.1, Architecture: x86_64, Build Version: 1
+Package: QMPlay2, Version: 24.04.07, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: QScintilla, Version: 2.14.1, Architecture: x86_64, Build Version: 4
+Package: R, Version: 4.4.2, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: SDL2, Version: 2.30.10, Architecture: x86_64, Build Version: 1
+Package: SDL2_gfx, Version: 1.0.4, Architecture: x86_64, Build Version: 3
+Package: SDL2_image, Version: 2.8.2, Architecture: x86_64, Build Version: 1
+Package: SDL2_mixer, Version: 2.8.0, Architecture: x86_64, Build Version: 1
+Package: SDL2_net, Version: 2.2.0, Architecture: x86_64, Build Version: 1
+Package: SDL2_ttf, Version: 2.22.0, Architecture: x86_64, Build Version: 1
+Package: Sl, Version: 1.1.3, Architecture: noarch, Build Version: 1, Tag: SBo
+Package: a2ps, Version: 4.15.6, Architecture: x86_64, Build Version: 1
+Package: a52dec, Version: 0.8.0, Architecture: x86_64, Build Version: 1
+Package: a68g, Version: 3.5.10, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: aaa_base, Version: 15.1, Architecture: x86_64, Build Version: 2
+Package: aaa_glibc-solibs, Version: 2.40, Architecture: x86_64, Build Version: 5
+Package: aaa_libraries, Version: 15.1, Architecture: x86_64, Build Version: 35
+Package: aaa_terminfo, Version: 6.5, Architecture: x86_64, Build Version: 1
+Package: aalib, Version: 1.4rc5, Architecture: x86_64, Build Version: 8
+Package: abook, Version: 0.6.1, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: abseil-cpp, Version: 20240722.0, Architecture: x86_64, Build Version: 1
+Package: accessibility-inspector, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: accountsservice, Version: 23.13.9, Architecture: x86_64, Build Version: 1
+Package: acct, Version: 6.6.4, Architecture: x86_64, Build Version: 4
+Package: acl, Version: 2.3.2, Architecture: x86_64, Build Version: 1
+Package: acme_sh, Version: 3.0.9, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: acpiclient, Version: 1.7, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: acpid, Version: 2.0.34, Architecture: x86_64, Build Version: 1
+Package: adns, Version: 1.6.1, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: advancecomp, Version: 2.6, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: adwaita-icon-theme, Version: 47.0, Architecture: noarch, Build Version: 1
+Package: adwaita-icon-theme-legacy, Version: 20240517_7642b10, Architecture: noarch, Build Version: 1
+Package: akonadi, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: akonadi-calendar, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: akonadi-calendar-tools, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: akonadi-contacts, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: akonadi-import-wizard, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: akonadi-mime, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: akonadi-notes, Version: 24.08.3, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: akonadi-search, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: akonadiconsole, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: akregator, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: alkimia, Version: 8.1.2, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: alligator, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: alpine, Version: 2.26, Architecture: x86_64, Build Version: 3
+Package: alsa-lib, Version: 1.2.13, Architecture: x86_64, Build Version: 2
+Package: alsa-oss, Version: 1.1.8, Architecture: x86_64, Build Version: 3
+Package: alsa-plugin-jack, Version: 1.2.5, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: alsa-plugins, Version: 1.2.12, Architecture: x86_64, Build Version: 2
+Package: alsa-utils, Version: 1.2.13, Architecture: x86_64, Build Version: 3
+Package: amp, Version: 0.7.6, Architecture: x86_64, Build Version: 5
+Package: analitza, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: angelfish, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: anthy-unicode, Version: 1.0.0.20240502, Architecture: x86_64, Build Version: 1
+Package: aom, Version: 3.11.0, Architecture: x86_64, Build Version: 1
+Package: apngasm, Version: 3.1.10, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: appmenu-gtk-module, Version: 24.05, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: appres, Version: 1.0.7, Architecture: x86_64, Build Version: 1
+Package: appstream, Version: 1.0.3, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: appstream-glib, Version: 0.8.3, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: appstream-qt, Version: 1.0.3, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: apr, Version: 1.7.5, Architecture: x86_64, Build Version: 1
+Package: apr-util, Version: 1.6.3, Architecture: x86_64, Build Version: 1
+Package: argbash, Version: 2.10.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: argon2, Version: 20190702, Architecture: x86_64, Build Version: 6
+Package: aria2, Version: 1.37.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: arianna, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: ark, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: arp-scan, Version: 1.10.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: art_standalone, Version: 20241102_git, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: artikulate, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: asciinema, Version: 2.4.0, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: asio, Version: 1.30.2, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: asn1crypto, Version: 1.5.1, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: aspell, Version: 0.60.8.1, Architecture: x86_64, Build Version: 1
+Package: aspell-en, Version: 2020.12.07_0, Architecture: x86_64, Build Version: 1
+Package: asterisk, Version: 20.11.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: at, Version: 3.2.5, Architecture: x86_64, Build Version: 1
+Package: at-spi2-core, Version: 2.54.0, Architecture: x86_64, Build Version: 1
+Package: atkmm, Version: 2.28.3, Architecture: x86_64, Build Version: 1
+Package: atkmm2, Version: 2.36.3, Architecture: x86_64, Build Version: 1
+Package: atlantik, Version: 3.5.10_git20240323, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: attica, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: attica5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: attr, Version: 2.5.2, Architecture: x86_64, Build Version: 1
+Package: audacious, Version: 4.4.2, Architecture: x86_64, Build Version: 1
+Package: audacious-plugins, Version: 4.4.2, Architecture: x86_64, Build Version: 1
+Package: audex, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: audiocd-kio, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: audiofile, Version: 0.3.6, Architecture: x86_64, Build Version: 5
+Package: autoconf, Version: 2.72, Architecture: noarch, Build Version: 1
+Package: autoconf-archive, Version: 2024.10.16, Architecture: noarch, Build Version: 1
+Package: autofs, Version: 5.1.9, Architecture: x86_64, Build Version: 1
+Package: automake, Version: 1.17, Architecture: noarch, Build Version: 1
+Package: autossh, Version: 1.4g, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: avahi, Version: 20240306_709e60f, Architecture: x86_64, Build Version: 3
+Package: awscrt, Version: 0.23.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: ayatana-ido, Version: 0.10.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: babel-loader, Version: 9.1.3, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: babl, Version: 0.1.110, Architecture: x86_64, Build Version: 1
+Package: baloo, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: baloo-widgets, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: bash, Version: 5.2.037, Architecture: x86_64, Build Version: 2
+Package: bat, Version: 0.24.0, Architecture: x86_64, Build Version: 3, Tag: SBo
+Package: bc, Version: 1.07.1, Architecture: x86_64, Build Version: 6
+Package: bcachefs-tools, Version: 1.13.0, Architecture: x86_64, Build Version: 1
+Package: bdftopcf, Version: 1.1.2, Architecture: x86_64, Build Version: 1
+Package: beforelight, Version: 1.0.6, Architecture: x86_64, Build Version: 1
+Package: biff+comsat, Version: 0.17, Architecture: x86_64, Build Version: 4
+Package: bin, Version: 11.1, Architecture: x86_64, Build Version: 5
+Package: bind, Version: 9.20.4, Architecture: x86_64, Build Version: 1
+Package: binutils, Version: 2.43.1, Architecture: x86_64, Build Version: 1
+Package: bionic_translation, Version: 20240525_git, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: bison, Version: 3.8.2, Architecture: x86_64, Build Version: 1
+Package: bitmap, Version: 1.1.1, Architecture: x86_64, Build Version: 1
+Package: black-hole-solver, Version: 1.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: blackbox, Version: 0.77, Architecture: x86_64, Build Version: 1
+Package: blinken, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: bluedevil, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: blueman, Version: 2.4.3, Architecture: x86_64, Build Version: 2
+Package: bluez, Version: 5.79, Architecture: x86_64, Build Version: 1
+Package: bluez-firmware, Version: 1.2, Architecture: x86_64, Build Version: 4
+Package: bluez-qt, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: bomber, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: boost, Version: 1.87.0, Architecture: x86_64, Build Version: 1
+Package: bootp, Version: 2.4.3, Architecture: x86_64, Build Version: 5
+Package: bovo, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: bpe, Version: 2.01.00, Architecture: x86_64, Build Version: 7
+Package: breeze, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: breeze-gtk, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: breeze-icons, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: bridge-utils, Version: 1.7.1, Architecture: x86_64, Build Version: 1
+Package: brotli, Version: 1.1.0, Architecture: x86_64, Build Version: 3
+Package: bsd-finger, Version: 0.17, Architecture: x86_64, Build Version: 5
+Package: bsd-games, Version: 2.17, Architecture: x86_64, Build Version: 6
+Package: btop, Version: 1.4.0, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: btrfs-progs, Version: 6.12, Architecture: x86_64, Build Version: 1
+Package: bubblewrap, Version: 0.11.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: bzip2, Version: 1.0.8, Architecture: x86_64, Build Version: 3
+Package: c-ares, Version: 1.34.3, Architecture: x86_64, Build Version: 1
+Package: ca-certificates, Version: 20241120, Architecture: noarch, Build Version: 1
+Package: cairo, Version: 1.18.2, Architecture: x86_64, Build Version: 2
+Package: cairomm, Version: 1.14.4, Architecture: x86_64, Build Version: 1
+Package: cairomm1, Version: 1.18.0, Architecture: x86_64, Build Version: 1
+Package: calendarsupport, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: calindori, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: callaudiod, Version: 0.1.7, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: calligra, Version: 4.0.1, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: cantor, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: cargo-c, Version: 0.10.4, Architecture: x86_64, Build Version: 2, Tag: SBo
+Package: cargo-vendor-filterer, Version: 0.5.16, Architecture: x86_64, Build Version: 1
+Package: cbindgen, Version: 0.26.0, Architecture: x86_64, Build Version: 3
+Package: ccache, Version: 4.10.2, Architecture: x86_64, Build Version: 1
+Package: cdparanoia, Version: III_10.2, Architecture: x86_64, Build Version: 5
+Package: cdrdao, Version: 1.2.5, Architecture: x86_64, Build Version: 1
+Package: cdrtools, Version: 3.02a09, Architecture: x86_64, Build Version: 1
+Package: cervisia, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: cfitsio, Version: 4.5.0, Architecture: x86_64, Build Version: 1
+Package: check, Version: 0.15.2, Architecture: x86_64, Build Version: 3
+Package: chmlib, Version: 0.40, Architecture: x86_64, Build Version: 5
+Package: chromaprint, Version: 1.5.1, Architecture: x86_64, Build Version: 2cf
+Package: cifs-utils, Version: 7.1, Architecture: x86_64, Build Version: 1
+Package: cldr-emoji-annotation, Version: 37.0_13.0_0_2, Architecture: noarch, Build Version: 4
+Package: clinfo, Version: 3.0.23.01.25, Architecture: x86_64, Build Version: 1
+Package: clisp, Version: 2.50_20230718_669249717, Architecture: x86_64, Build Version: 2
+Package: clucene, Version: 2.3.3.4, Architecture: x86_64, Build Version: 5
+Package: clutter, Version: 1.26.4, Architecture: x86_64, Build Version: 4, Tag: gfs
+Package: cmake, Version: 3.31.2, Architecture: x86_64, Build Version: 1
+Package: cmark, Version: 0.31.1, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: colord, Version: 1.4.7, Architecture: x86_64, Build Version: 1
+Package: colord-gtk, Version: 0.3.1, Architecture: x86_64, Build Version: 2, Tag: gfs
+Package: colord-kde, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: compiz, Version: 0.8.18, Architecture: x86_64, Build Version: 4
+Package: conntrack-tools, Version: 1.4.8, Architecture: x86_64, Build Version: 1
+Package: containerd, Version: 1.7.19, Architecture: x86_64, Build Version: 1alien
+Package: coppwr, Version: 1.6.1, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: coreutils, Version: 9.5, Architecture: x86_64, Build Version: 1
+Package: cpio, Version: 2.15, Architecture: x86_64, Build Version: 1
+Package: cptn, Version: 2.0.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: cpufrequtils, Version: 008, Architecture: x86_64, Build Version: 4
+Package: cracklib, Version: 2.10.2, Architecture: x86_64, Build Version: 1
+Package: cryfs, Version: 0.10.3, Architecture: x86_64, Build Version: 14
+Package: cryptopp, Version: 8.2.0, Architecture: x86_64, Build Version: 3
+Package: cryptsetup, Version: 2.7.5, Architecture: x86_64, Build Version: 2
+Package: csbooks, Version: 8.2.2, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: cscope, Version: 15.9, Architecture: x86_64, Build Version: 4
+Package: cups, Version: 2.4.11, Architecture: x86_64, Build Version: 1
+Package: cups-browsed, Version: 2.1.0, Architecture: x86_64, Build Version: 1
+Package: cups-filters, Version: 2.0.1, Architecture: x86_64, Build Version: 1
+Package: curl, Version: 8.11.1, Architecture: x86_64, Build Version: 1
+Package: cvs, Version: 1.11.23, Architecture: x86_64, Build Version: 9
+Package: cxxopts, Version: 3.2.1, Architecture: x86_64, Build Version: 1
+Package: cyrus-sasl, Version: 2.1.28, Architecture: x86_64, Build Version: 3
+Package: daemon, Version: 0.8.4, Architecture: x86_64, Build Version: 1
+Package: dash, Version: 0.5.12, Architecture: x86_64, Build Version: 1
+Package: dav1d, Version: 1.5.0, Architecture: x86_64, Build Version: 1
+Package: db48, Version: 4.8.30, Architecture: x86_64, Build Version: 6
+Package: dbus, Version: 1.14.10, Architecture: x86_64, Build Version: 1
+Package: dbus-glib, Version: 0.112, Architecture: x86_64, Build Version: 1
+Package: dbus-python, Version: 1.3.2, Architecture: x86_64, Build Version: 4
+Package: dc3dd, Version: 7.3.1, Architecture: x86_64, Build Version: 1
+Package: dconf, Version: 0.40.0, Architecture: x86_64, Build Version: 1
+Package: dconf-editor, Version: 45.0.1, Architecture: x86_64, Build Version: 1
+Package: dcron, Version: 4.5, Architecture: x86_64, Build Version: 17
+Package: ddcutil, Version: 2.1.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: ddd, Version: 3.4.1, Architecture: x86_64, Build Version: 1
+Package: ddrescue, Version: 1.28, Architecture: x86_64, Build Version: 1
+Package: dehydrated, Version: 0.7.1, Architecture: noarch, Build Version: 1
+Package: dejavu-fonts-ttf, Version: 2.37, Architecture: noarch, Build Version: 7
+Package: desktop-file-utils, Version: 0.28, Architecture: x86_64, Build Version: 1
+Package: dev86, Version: 0.16.21, Architecture: x86_64, Build Version: 4
+Package: devs, Version: 2.3.1, Architecture: noarch, Build Version: 25
+Package: dhcp, Version: 4.4.3_P1, Architecture: x86_64, Build Version: 1
+Package: dhcpcd, Version: 10.1.0, Architecture: x86_64, Build Version: 1
+Package: dialog, Version: 1.3_20240619, Architecture: x86_64, Build Version: 1
+Package: diffstat, Version: 1.67, Architecture: x86_64, Build Version: 1
+Package: diffutils, Version: 3.10, Architecture: x86_64, Build Version: 1
+Package: digikam, Version: 8.4.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: dirac, Version: 1.0.2, Architecture: x86_64, Build Version: 4, Tag: SBo
+Package: discount, Version: 3.0.0d, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: discover, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: distcc, Version: 3.4, Architecture: x86_64, Build Version: 6
+Package: djvulibre, Version: 3.5.28, Architecture: x86_64, Build Version: 4
+Package: dmapi, Version: 2.2.12, Architecture: x86_64, Build Version: 5
+Package: dmidecode, Version: 3.6, Architecture: x86_64, Build Version: 1
+Package: dnsmasq, Version: 2.90, Architecture: x86_64, Build Version: 1
+Package: docbook-xml5, Version: 5.0.0, Architecture: noarch, Build Version: 1, Tag: SBo
+Package: docker, Version: 27.0.3, Architecture: x86_64, Build Version: 1alien
+Package: docker-compose, Version: 2.28.1, Architecture: x86_64, Build Version: 1alien
+Package: dolphin, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: dolphin-plugins, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: dos2unix, Version: 7.5.2, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: dosfstools, Version: 4.2, Architecture: x86_64, Build Version: 2
+Package: dotconf, Version: 1.4.1, Architecture: x86_64, Build Version: 1
+Package: dovecot, Version: 2.3.21.1, Architecture: x86_64, Build Version: 4
+Package: doxygen, Version: 1.12.0, Architecture: x86_64, Build Version: 1
+Package: dracut, Version: 105, Architecture: x86_64, Build Version: 1
+Package: dragon, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: drkonqi, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: duktape, Version: 2.7.0, Architecture: x86_64, Build Version: 1
+Package: dvd+rw-tools, Version: 7.1, Architecture: x86_64, Build Version: 5
+Package: dvdauthor, Version: 0.7.2, Architecture: x86_64, Build Version: 5
+Package: e2fsprogs, Version: 1.47.1, Architecture: x86_64, Build Version: 2
+Package: easytag, Version: 2.4.3, Architecture: x86_64, Build Version: 5
+Package: ebook-tools, Version: 0.2.2, Architecture: x86_64, Build Version: 7
+Package: ebtables, Version: 2.0.11, Architecture: x86_64, Build Version: 3
+Package: ed, Version: 1.20.2, Architecture: x86_64, Build Version: 1
+Package: editorconfig-core-c, Version: 0.12.9, Architecture: x86_64, Build Version: 1
+Package: editres, Version: 1.0.9, Architecture: x86_64, Build Version: 1
+Package: efibootmgr, Version: 18, Architecture: x86_64, Build Version: 1
+Package: efivar, Version: 20201015_cff88dd, Architecture: x86_64, Build Version: 1
+Package: egl-wayland, Version: 1.1.17, Architecture: x86_64, Build Version: 1
+Package: eglexternalplatform, Version: 1.2, Architecture: x86_64, Build Version: 1
+Package: eigen3, Version: 3.4.0, Architecture: x86_64, Build Version: 1
+Package: electricsheep, Version: 20090306, Architecture: x86_64, Build Version: 7
+Package: electron, Version: 26.6.10, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: elementary-xfce, Version: 0.20, Architecture: noarch, Build Version: 1
+Package: elfutils, Version: 0.192, Architecture: x86_64, Build Version: 1
+Package: elisa, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: elm, Version: 2.5.8, Architecture: x86_64, Build Version: 8
+Package: elogind, Version: 255.5, Architecture: x86_64, Build Version: 1
+Package: elvis, Version: 2.2_0, Architecture: x86_64, Build Version: 9
+Package: emacs, Version: 29.4, Architecture: x86_64, Build Version: 2
+Package: emacspeak, Version: 60.0, Architecture: x86_64, Build Version: 2
+Package: enchant, Version: 2.8.2, Architecture: x86_64, Build Version: 1
+Package: encodings, Version: 1.1.0, Architecture: noarch, Build Version: 1
+Package: enscript, Version: 1.6.6, Architecture: x86_64, Build Version: 4
+Package: epic5, Version: 3.0.2, Architecture: x86_64, Build Version: 1
+Package: esound, Version: 0.2.41, Architecture: x86_64, Build Version: 5
+Package: espeak-ng, Version: 1.52.0, Architecture: x86_64, Build Version: 1
+Package: etc, Version: 15.1, Architecture: x86_64, Build Version: 12
+Package: ethtool, Version: 5.19, Architecture: x86_64, Build Version: 1
+Package: eudev, Version: 3.2.14, Architecture: x86_64, Build Version: 2
+Package: eventviews, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: exfatprogs, Version: 1.2.6, Architecture: x86_64, Build Version: 1
+Package: exiv2, Version: 0.28.3, Architecture: x86_64, Build Version: 1
+Package: exo, Version: 4.18.0, Architecture: x86_64, Build Version: 1
+Package: expat, Version: 2.6.4, Architecture: x86_64, Build Version: 1
+Package: expect, Version: 5.45.4, Architecture: x86_64, Build Version: 4
+Package: extra-cmake-modules, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: f2fs-tools, Version: 1.16.0, Architecture: x86_64, Build Version: 2
+Package: faac, Version: 1_30, Architecture: x86_64, Build Version: 1cf
+Package: faad2, Version: 2.10.1, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: falkon, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: farstream, Version: 0.2.9, Architecture: x86_64, Build Version: 3
+Package: fcitx5, Version: 5.1.11, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: fcitx5-anthy, Version: 5.1.5, Architecture: x86_64, Build Version: 1
+Package: fcitx5-chinese-addons, Version: 5.1.7, Architecture: x86_64, Build Version: 2
+Package: fcitx5-configtool, Version: 5.1.7, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: fcitx5-gtk, Version: 5.1.3, Architecture: x86_64, Build Version: 2
+Package: fcitx5-hangul, Version: 5.1.5, Architecture: x86_64, Build Version: 1
+Package: fcitx5-kkc, Version: 5.1.5, Architecture: x86_64, Build Version: 1
+Package: fcitx5-m17n, Version: 5.1.2, Architecture: x86_64, Build Version: 1
+Package: fcitx5-qt, Version: 5.1.8, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: fcitx5-sayura, Version: 5.1.2, Architecture: x86_64, Build Version: 1
+Package: fcitx5-table-extra, Version: 5.1.6, Architecture: x86_64, Build Version: 1
+Package: fcitx5-table-other, Version: 5.1.3, Architecture: x86_64, Build Version: 1
+Package: fcitx5-unikey, Version: 5.1.5, Architecture: x86_64, Build Version: 1
+Package: fetchmail, Version: 6.5.1, Architecture: x86_64, Build Version: 2
+Package: ffmpeg, Version: 7.1, Architecture: x86_64, Build Version: 1
+Package: ffmpeg4, Version: 4.4.5, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: ffmpegthumbnailer, Version: 2.2.3, Architecture: x86_64, Build Version: 1
+Package: ffmpegthumbs, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: fftw, Version: 3.3.10, Architecture: x86_64, Build Version: 2
+Package: fielding, Version: d9e0818_git, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: fig2dev, Version: 3.2.9, Architecture: x86_64, Build Version: 1
+Package: file, Version: 5.46, Architecture: x86_64, Build Version: 1
+Package: filelight, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: findutils, Version: 4.10.0, Architecture: x86_64, Build Version: 1
+Package: flac, Version: 1.4.3, Architecture: x86_64, Build Version: 1
+Package: flatpak, Version: 1.12.7, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: flatpak-kcm, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: flex, Version: 2.6.4, Architecture: x86_64, Build Version: 5
+Package: floppy, Version: 5.5, Architecture: x86_64, Build Version: 4
+Package: fltk, Version: 1.3.8, Architecture: x86_64, Build Version: 2, Tag: SBo
+Package: fluidsynth, Version: 2.4.1, Architecture: x86_64, Build Version: 1
+Package: fluxbox, Version: 1.3.7, Architecture: x86_64, Build Version: 6
+Package: fmt, Version: 10.2.1, Architecture: x86_64, Build Version: 1
+Package: font-adobe-100dpi, Version: 1.0.4, Architecture: noarch, Build Version: 2
+Package: font-adobe-75dpi, Version: 1.0.4, Architecture: noarch, Build Version: 2
+Package: font-adobe-utopia-100dpi, Version: 1.0.5, Architecture: noarch, Build Version: 1
+Package: font-adobe-utopia-75dpi, Version: 1.0.5, Architecture: noarch, Build Version: 1
+Package: font-adobe-utopia-type1, Version: 1.0.5, Architecture: noarch, Build Version: 1
+Package: font-alias, Version: 1.0.5, Architecture: noarch, Build Version: 1
+Package: font-arabic-misc, Version: 1.0.4, Architecture: noarch, Build Version: 1
+Package: font-bh-100dpi, Version: 1.0.4, Architecture: noarch, Build Version: 1
+Package: font-bh-75dpi, Version: 1.0.4, Architecture: noarch, Build Version: 1
+Package: font-bh-lucidatypewriter-100dpi, Version: 1.0.4, Architecture: noarch, Build Version: 1
+Package: font-bh-lucidatypewriter-75dpi, Version: 1.0.4, Architecture: noarch, Build Version: 1
+Package: font-bh-ttf, Version: 1.0.4, Architecture: noarch, Build Version: 2
+Package: font-bh-type1, Version: 1.0.4, Architecture: noarch, Build Version: 1
+Package: font-bitstream-100dpi, Version: 1.0.4, Architecture: noarch, Build Version: 1
+Package: font-bitstream-75dpi, Version: 1.0.4, Architecture: noarch, Build Version: 1
+Package: font-bitstream-speedo, Version: 1.0.2, Architecture: noarch, Build Version: 5
+Package: font-bitstream-type1, Version: 1.0.4, Architecture: noarch, Build Version: 1
+Package: font-cronyx-cyrillic, Version: 1.0.4, Architecture: noarch, Build Version: 1
+Package: font-cursor-misc, Version: 1.0.4, Architecture: noarch, Build Version: 1
+Package: font-daewoo-misc, Version: 1.0.4, Architecture: noarch, Build Version: 1
+Package: font-dec-misc, Version: 1.0.4, Architecture: noarch, Build Version: 1
+Package: font-ibm-type1, Version: 1.0.4, Architecture: noarch, Build Version: 1
+Package: font-isas-misc, Version: 1.0.4, Architecture: noarch, Build Version: 1
+Package: font-jis-misc, Version: 1.0.4, Architecture: noarch, Build Version: 1
+Package: font-micro-misc, Version: 1.0.4, Architecture: noarch, Build Version: 1
+Package: font-misc-cyrillic, Version: 1.0.4, Architecture: noarch, Build Version: 1
+Package: font-misc-ethiopic, Version: 1.0.5, Architecture: noarch, Build Version: 1
+Package: font-misc-meltho, Version: 1.0.4, Architecture: noarch, Build Version: 1
+Package: font-misc-misc, Version: 1.1.3, Architecture: noarch, Build Version: 1
+Package: font-mutt-misc, Version: 1.0.4, Architecture: noarch, Build Version: 1
+Package: font-schumacher-misc, Version: 1.1.3, Architecture: noarch, Build Version: 1
+Package: font-screen-cyrillic, Version: 1.0.5, Architecture: noarch, Build Version: 1
+Package: font-sony-misc, Version: 1.0.4, Architecture: noarch, Build Version: 1
+Package: font-sun-misc, Version: 1.0.4, Architecture: noarch, Build Version: 1
+Package: font-util, Version: 1.4.1, Architecture: x86_64, Build Version: 1
+Package: font-winitzki-cyrillic, Version: 1.0.4, Architecture: noarch, Build Version: 1
+Package: font-xfree86-type1, Version: 1.0.5, Architecture: noarch, Build Version: 1
+Package: fontconfig, Version: 2.15.0, Architecture: x86_64, Build Version: 3
+Package: fonttosfnt, Version: 1.2.4, Architecture: x86_64, Build Version: 1
+Package: frameworkintegration, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: frameworkintegration5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: francis, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: freecell-solver, Version: 6.12.0, Architecture: x86_64, Build Version: 1
+Package: freeglut, Version: 3.6.0, Architecture: x86_64, Build Version: 1
+Package: freerdp, Version: 2.11.7, Architecture: x86_64, Build Version: 2
+Package: freetds, Version: 1.00.99, Architecture: x86_64, Build Version: 2, Tag: SBo
+Package: freetype, Version: 2.13.3, Architecture: x86_64, Build Version: 1
+Package: frei0r-plugins, Version: 2.3.3, Architecture: x86_64, Build Version: 1
+Package: fribidi, Version: 1.0.16, Architecture: x86_64, Build Version: 1
+Package: fslsfonts, Version: 1.0.7, Architecture: x86_64, Build Version: 1
+Package: fstobdf, Version: 1.0.7, Architecture: x86_64, Build Version: 1
+Package: fuse, Version: 2.9.9, Architecture: x86_64, Build Version: 4
+Package: fuse3, Version: 3.16.2, Architecture: x86_64, Build Version: 1
+Package: futuresql, Version: 0.1.1, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: fvwm, Version: 2.7.0, Architecture: x86_64, Build Version: 1
+Package: garcon, Version: 4.18.2, Architecture: x86_64, Build Version: 1
+Package: gawk, Version: 5.3.1, Architecture: x86_64, Build Version: 1
+Package: gc, Version: 8.2.8, Architecture: x86_64, Build Version: 1
+Package: gcab, Version: 1.6, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: gcc, Version: 14.2.0, Architecture: x86_64, Build Version: 2
+Package: gcc-g++, Version: 14.2.0, Architecture: x86_64, Build Version: 2
+Package: gcc-gdc, Version: 14.2.0, Architecture: x86_64, Build Version: 2
+Package: gcc-gfortran, Version: 14.2.0, Architecture: x86_64, Build Version: 2
+Package: gcc-gm2, Version: 14.2.0, Architecture: x86_64, Build Version: 2
+Package: gcc-gnat, Version: 14.2.0, Architecture: x86_64, Build Version: 2
+Package: gcc-go, Version: 14.2.0, Architecture: x86_64, Build Version: 2
+Package: gcc-objc, Version: 14.2.0, Architecture: x86_64, Build Version: 2
+Package: gcc-rust, Version: 14.2.0, Architecture: x86_64, Build Version: 2
+Package: gcc5, Version: 5.5.0_multilib, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: gccmakedep, Version: 1.0.4, Architecture: noarch, Build Version: 1
+Package: gcr, Version: 3.40.0, Architecture: x86_64, Build Version: 2
+Package: gcr4, Version: 4.2.1, Architecture: x86_64, Build Version: 1
+Package: gd, Version: 2.3.3, Architecture: x86_64, Build Version: 3
+Package: gdb, Version: 15.2, Architecture: x86_64, Build Version: 3
+Package: gdbm, Version: 1.24, Architecture: x86_64, Build Version: 1
+Package: gdk-pixbuf2, Version: 2.42.12, Architecture: x86_64, Build Version: 1
+Package: gdk-pixbuf2-xlib, Version: 2.40.2, Architecture: x86_64, Build Version: 4
+Package: geeqie, Version: 2.5, Architecture: x86_64, Build Version: 2
+Package: gegl, Version: 0.4.50, Architecture: x86_64, Build Version: 1
+Package: geoclue2, Version: 2.6.0, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: getmail, Version: 6.19.05, Architecture: x86_64, Build Version: 2
+Package: gettext, Version: 0.22.5, Architecture: x86_64, Build Version: 2
+Package: gettext-tools, Version: 0.22.5, Architecture: x86_64, Build Version: 2
+Package: gexiv2, Version: 0.14.3, Architecture: x86_64, Build Version: 2
+Package: gflags, Version: 2.2.0, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: gftp, Version: 2.9.1b, Architecture: x86_64, Build Version: 3
+Package: ghostscript, Version: 10.04.0, Architecture: x86_64, Build Version: 1
+Package: ghostscript-fonts-std, Version: 8.11, Architecture: noarch, Build Version: 5
+Package: ghostwriter, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: gi-docgen, Version: 2024.1, Architecture: x86_64, Build Version: 2
+Package: giflib, Version: 5.2.2, Architecture: x86_64, Build Version: 1
+Package: gimp-3.0.0, Version: RC1, Architecture: x86_64, Build Version: 1
+Package: git, Version: 2.47.1, Architecture: x86_64, Build Version: 1
+Package: git-lfs, Version: 3.6.0, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: github-cli, Version: 2.63.0, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: gitify, Version: 5.16.2, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: gjs, Version: 1.82.1, Architecture: x86_64, Build Version: 1
+Package: gkrellm, Version: 2.3.11, Architecture: x86_64, Build Version: 4
+Package: glade, Version: 3.40.0, Architecture: x86_64, Build Version: 3
+Package: glew, Version: 2.2.0, Architecture: x86_64, Build Version: 3
+Package: glfw3, Version: 3.4, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: glib, Version: 1.2.10, Architecture: x86_64, Build Version: 9
+Package: glib-networking, Version: 2.80.0, Architecture: x86_64, Build Version: 1
+Package: glib2, Version: 2.82.4, Architecture: x86_64, Build Version: 1
+Package: glibc, Version: 2.40, Architecture: x86_64, Build Version: 5
+Package: glibc-i18n, Version: 2.40, Architecture: x86_64, Build Version: 5
+Package: glibc-profile, Version: 2.40, Architecture: x86_64, Build Version: 5
+Package: glibc-zoneinfo, Version: 2024b, Architecture: noarch, Build Version: 1
+Package: glibmm, Version: 2.66.7, Architecture: x86_64, Build Version: 1
+Package: glibmm2, Version: 2.82.0, Architecture: x86_64, Build Version: 1
+Package: glu, Version: 9.0.3, Architecture: x86_64, Build Version: 1
+Package: gme, Version: 0.6.3, Architecture: x86_64, Build Version: 1alien
+Package: gmime, Version: 3.2.15, Architecture: x86_64, Build Version: 1
+Package: gmm, Version: 5.4.2, Architecture: noarch, Build Version: 1
+Package: gmp, Version: 6.3.0, Architecture: x86_64, Build Version: 1
+Package: gn, Version: 20240402_git, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: gnome-desktop, Version: 44.0, Architecture: x86_64, Build Version: 5, Tag: gfs
+Package: gnome-keyring, Version: 46.2, Architecture: x86_64, Build Version: 1
+Package: gnome-mime-data, Version: 2.18.0, Architecture: noarch, Build Version: 3, Tag: SBo
+Package: gnome-software, Version: 46.4, Architecture: x86_64, Build Version: 1, Tag: gfs
+Package: gnome-themes-extra, Version: 3.28, Architecture: x86_64, Build Version: 3
+Package: gnome-vfs, Version: 2.24.4, Architecture: x86_64, Build Version: 4, Tag: SBo
+Package: gnu-efi, Version: 3.0.18, Architecture: x86_64, Build Version: 1
+Package: gnuchess, Version: 6.2.9, Architecture: x86_64, Build Version: 2
+Package: gnucobol, Version: 3.2, Architecture: x86_64, Build Version: 1
+Package: gnupg, Version: 1.4.23, Architecture: x86_64, Build Version: 6
+Package: gnupg2, Version: 2.4.7, Architecture: x86_64, Build Version: 1
+Package: gnuplot, Version: 6.0.1, Architecture: x86_64, Build Version: 1
+Package: gnutls, Version: 3.8.8, Architecture: x86_64, Build Version: 1
+Package: go-md2man, Version: 1.0.8, Architecture: x86_64, Build Version: 2, Tag: SBo
+Package: gobject-introspection, Version: 1.82.0, Architecture: x86_64, Build Version: 2
+Package: google-chrome, Version: 131.0.6778.69, Architecture: x86_64, Build Version: 1
+Package: google-go-lang, Version: 1.22.9, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: gpa, Version: 0.10.0, Architecture: x86_64, Build Version: 3
+Package: gparted, Version: 1.6.0, Architecture: x86_64, Build Version: 1
+Package: gperf, Version: 3.1, Architecture: x86_64, Build Version: 4
+Package: gperftools, Version: 2.9.1, Architecture: x86_64, Build Version: 2, Tag: SBo
+Package: gpgme, Version: 1.24.1, Architecture: x86_64, Build Version: 1
+Package: gphoto2, Version: 2.5.28, Architecture: x86_64, Build Version: 1
+Package: gpm, Version: 1.20.7, Architecture: x86_64, Build Version: 10
+Package: gptfdisk, Version: 1.0.10, Architecture: x86_64, Build Version: 1
+Package: gpu-recorder-gtk, Version: r402.ee137ee, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: gpu-screen-recorder, Version: r876.030947e, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: granatier, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: grantlee, Version: 5.3.1, Architecture: x86_64, Build Version: 1
+Package: grantlee-editor, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: grantleetheme, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: graphene, Version: 1.10.8, Architecture: x86_64, Build Version: 1
+Package: graphite2, Version: 1.3.14, Architecture: x86_64, Build Version: 3
+Package: graphviz, Version: 12.1.2, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: grep, Version: 3.11, Architecture: x86_64, Build Version: 1
+Package: grilo, Version: 0.3.16, Architecture: x86_64, Build Version: 3, Tag: gfs
+Package: groff, Version: 1.23.0, Architecture: x86_64, Build Version: 2
+Package: grub, Version: 2.12, Architecture: x86_64, Build Version: 16
+Package: gsettings-desktop-schemas, Version: 47.1, Architecture: x86_64, Build Version: 1
+Package: gsl, Version: 2.8, Architecture: x86_64, Build Version: 1
+Package: gsm, Version: 1.0.22, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: gspell, Version: 1.14.0, Architecture: x86_64, Build Version: 2
+Package: gst-plugins-bad-free, Version: 1.24.10, Architecture: x86_64, Build Version: 1
+Package: gst-plugins-bad0, Version: 0.10.23, Architecture: x86_64, Build Version: 2alien
+Package: gst-plugins-base, Version: 1.24.10, Architecture: x86_64, Build Version: 1
+Package: gst-plugins-ffmpeg0, Version: 0.10.13, Architecture: x86_64, Build Version: 2alien
+Package: gst-plugins-good, Version: 1.24.10, Architecture: x86_64, Build Version: 1
+Package: gst-plugins-libav, Version: 1.24.10, Architecture: x86_64, Build Version: 1
+Package: gst-plugins-ugly, Version: 1.24.7, Architecture: x86_64, Build Version: 1cf
+Package: gstreamer, Version: 1.24.10, Architecture: x86_64, Build Version: 1
+Package: gstreamermm, Version: 1.10.0, Architecture: x86_64, Build Version: 2cf
+Package: gtest, Version: 1.12.1, Architecture: x86_64, Build Version: 2, Tag: SBo
+Package: gtk+, Version: 1.2.10, Architecture: x86_64, Build Version: 9
+Package: gtk+2, Version: 2.24.33, Architecture: x86_64, Build Version: 3
+Package: gtk+3, Version: 3.24.43, Architecture: x86_64, Build Version: 1
+Package: gtk4, Version: 4.16.7, Architecture: x86_64, Build Version: 1
+Package: gtkmm2, Version: 2.24.5, Architecture: x86_64, Build Version: 4
+Package: gtkmm3, Version: 3.24.9, Architecture: x86_64, Build Version: 1
+Package: gtkmm4, Version: 4.16.0, Architecture: x86_64, Build Version: 1
+Package: gtksourceview3, Version: 3.24.11, Architecture: x86_64, Build Version: 4
+Package: gtkspell, Version: 2.0.16, Architecture: x86_64, Build Version: 7
+Package: gucharmap, Version: 16.0.2, Architecture: x86_64, Build Version: 1
+Package: guile, Version: 3.0.9, Architecture: x86_64, Build Version: 2
+Package: gulkan, Version: 0.16.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: gutenprint, Version: 5.3.4, Architecture: x86_64, Build Version: 4
+Package: gv, Version: 3.7.4, Architecture: x86_64, Build Version: 5
+Package: gvfs, Version: 1.56.1, Architecture: x86_64, Build Version: 1
+Package: gwenview, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: gxr, Version: 0.16.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: gyp, Version: 20210831_d6c5dd51, Architecture: x86_64, Build Version: 4
+Package: gzip, Version: 1.13, Architecture: x86_64, Build Version: 1
+Package: hack-fonts-ttf, Version: 3.003, Architecture: noarch, Build Version: 3
+Package: harfbuzz, Version: 10.1.0, Architecture: x86_64, Build Version: 1
+Package: haruna, Version: 1.2.1, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: hashomatic, Version: 1.0.1, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: haveged, Version: 1.9.19, Architecture: x86_64, Build Version: 1
+Package: hdparm, Version: 9.65, Architecture: x86_64, Build Version: 1
+Package: help2man, Version: 1.49.3, Architecture: x86_64, Build Version: 1
+Package: hexchat, Version: 2.16.2, Architecture: x86_64, Build Version: 4
+Package: hfsutils, Version: 3.2.6, Architecture: x86_64, Build Version: 8
+Package: hicolor-icon-theme, Version: 0.18, Architecture: noarch, Build Version: 1
+Package: highway, Version: 1.2.0, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: hostname, Version: 3.25, Architecture: x86_64, Build Version: 1
+Package: hplip, Version: 3.24.4, Architecture: x86_64, Build Version: 2
+Package: htdig, Version: 3.2.0b6, Architecture: x86_64, Build Version: 10
+Package: htop, Version: 3.3.0, Architecture: x86_64, Build Version: 1
+Package: httpd, Version: 2.4.62, Architecture: x86_64, Build Version: 1
+Package: hunspell, Version: 1.7.2, Architecture: x86_64, Build Version: 1
+Package: hwatch, Version: 0.3.18, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: hwdata, Version: 0.390, Architecture: noarch, Build Version: 1
+Package: hyphen, Version: 2.8.8, Architecture: x86_64, Build Version: 3
+Package: ibus, Version: 1.5.31, Architecture: x86_64, Build Version: 2
+Package: ibus-anthy, Version: 1.5.16, Architecture: x86_64, Build Version: 3
+Package: ibus-gtk4, Version: 1.5.30, Architecture: x86_64, Build Version: 1, Tag: gfs
+Package: ibus-hangul, Version: 1.5.5, Architecture: x86_64, Build Version: 3
+Package: ibus-kkc, Version: 1.5.22, Architecture: x86_64, Build Version: 3
+Package: ibus-libpinyin, Version: 1.15.8, Architecture: x86_64, Build Version: 2
+Package: ibus-m17n, Version: 1.4.34, Architecture: x86_64, Build Version: 1
+Package: ibus-table, Version: 1.17.9, Architecture: x86_64, Build Version: 1
+Package: ibus-unikey, Version: 0.6.1, Architecture: x86_64, Build Version: 3
+Package: iceauth, Version: 1.0.10, Architecture: x86_64, Build Version: 2
+Package: icecream, Version: 1.4.0, Architecture: x86_64, Build Version: 1
+Package: icmpinfo, Version: 1.11, Architecture: x86_64, Build Version: 5
+Package: ico, Version: 1.0.6, Architecture: x86_64, Build Version: 1
+Package: icon-naming-utils, Version: 0.8.90, Architecture: x86_64, Build Version: 5
+Package: icu4c, Version: 76.1, Architecture: x86_64, Build Version: 1
+Package: id3lib, Version: 3.8.3, Architecture: x86_64, Build Version: 4
+Package: iftop, Version: 1.0pre4, Architecture: x86_64, Build Version: 5
+Package: igt-gpu-tools, Version: 1.29, Architecture: x86_64, Build Version: 1
+Package: imagemagick, Version: 7.1.1_41, Architecture: x86_64, Build Version: 1
+Package: imake, Version: 1.0.10, Architecture: x86_64, Build Version: 1
+Package: imlib2, Version: 1.12.3, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: immer, Version: 0.8.1, Architecture: x86_64, Build Version: 1
+Package: incidenceeditor, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: indent, Version: 2.2.13, Architecture: x86_64, Build Version: 1
+Package: inetd, Version: 1.79s, Architecture: x86_64, Build Version: 14
+Package: infozip, Version: 6.0, Architecture: x86_64, Build Version: 7
+Package: inih, Version: 58, Architecture: x86_64, Build Version: 1
+Package: iniparser, Version: 4.2.4, Architecture: x86_64, Build Version: 1
+Package: inotify-tools, Version: 4.23.9.0, Architecture: x86_64, Build Version: 1
+Package: intel-gmmlib, Version: 22.4.1, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: intel-media-driver, Version: 24.2.5, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: intel-media-sdk, Version: 23.2.2, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: intel-microcode, Version: 20241112, Architecture: noarch, Build Version: 1, Tag: SBo
+Package: intel-vaapi-driver, Version: 2.4.1, Architecture: x86_64, Build Version: 3
+Package: intltool, Version: 0.51.0, Architecture: x86_64, Build Version: 6
+Package: inxi, Version: 3.3.36_1, Architecture: noarch, Build Version: 1
+Package: iproute2, Version: 6.12.0, Architecture: x86_64, Build Version: 1
+Package: ipset, Version: 7.22, Architecture: x86_64, Build Version: 1
+Package: iptables, Version: 1.8.11, Architecture: x86_64, Build Version: 1
+Package: iptraf-ng, Version: 1.2.2, Architecture: x86_64, Build Version: 1
+Package: iputils, Version: 20240905, Architecture: x86_64, Build Version: 1
+Package: ipw2100-fw, Version: 1.3, Architecture: fw, Build Version: 3
+Package: ipw2200-fw, Version: 3.1, Architecture: fw, Build Version: 3
+Package: irssi, Version: 1.4.5, Architecture: x86_64, Build Version: 3
+Package: isl, Version: 0.27, Architecture: x86_64, Build Version: 1
+Package: iso-codes, Version: 4.17.0, Architecture: noarch, Build Version: 1
+Package: isoimagewriter, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: ispell, Version: 3.4.06, Architecture: x86_64, Build Version: 3
+Package: itinerary, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: itstool, Version: 2.0.7, Architecture: x86_64, Build Version: 3
+Package: iucode_tool, Version: 2.3.1, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: iw, Version: 6.9, Architecture: x86_64, Build Version: 1
+Package: jack, Version: 1.9.22, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: jansson, Version: 2.14, Architecture: x86_64, Build Version: 1
+Package: jasper, Version: 4.2.4, Architecture: x86_64, Build Version: 1
+Package: javacc, Version: 7.0.10, Architecture: noarch, Build Version: 1, Tag: SBo
+Package: javacpc, Version: 3.0.2, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: jed, Version: 0.99_19, Architecture: x86_64, Build Version: 5
+Package: jemalloc, Version: 5.3.0, Architecture: x86_64, Build Version: 2
+Package: jfsutils, Version: 1.1.15, Architecture: x86_64, Build Version: 4
+Package: jmtpfs, Version: 0.5, Architecture: x86_64, Build Version: 3
+Package: joe, Version: 4.6, Architecture: x86_64, Build Version: 5
+Package: jove, Version: 4.17.5.3, Architecture: x86_64, Build Version: 1
+Package: jpegoptim, Version: 1.5.5, Architecture: x86_64, Build Version: 1cf
+Package: jq, Version: 1.7.1, Architecture: x86_64, Build Version: 2, Tag: SBo
+Package: json-c, Version: 0.18_20240915, Architecture: x86_64, Build Version: 1
+Package: json-glib, Version: 1.10.6, Architecture: x86_64, Build Version: 1
+Package: judy, Version: 1.0.5, Architecture: x86_64, Build Version: 4
+Package: juk, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: k3b, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kaccounts-integration, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kactivities, Version: 5.116.0, Architecture: x86_64, Build Version: 1
+Package: kactivities-stats, Version: 5.116.0, Architecture: x86_64, Build Version: 1
+Package: kactivities5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kactivitymanagerd, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kaddressbook, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kalarm, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kalgebra, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kalk, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kalm, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kalzium, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kamera, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kamoso, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kanagram, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kapidox, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kapman, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kapptemplate, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: karchive, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: karchive5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kasts, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kate, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: katomic, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kauth, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kauth5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kbackup, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kbd, Version: 2.7, Architecture: x86_64, Build Version: 1
+Package: kblackbox, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kblocks, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kbookmarks, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kbookmarks5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kbounce, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kbreakout, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kbruch, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kcachegrind, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kcalc, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kcalendarcore, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kcalendarcore5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kcalutils, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kcharselect, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kclock, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kcmutils, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kcmutils5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kcodecs, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kcodecs5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kcolorchooser, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kcolorpicker, Version: 0.3.1, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kcolorscheme, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kcompletion, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kcompletion5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kconfig, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kconfig5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kconfigwidgets, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kconfigwidgets5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kcontacts, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kcontacts5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kcoreaddons, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kcoreaddons5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kcrash, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kcrash5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kcron, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdav, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdbusaddons, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdbusaddons5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kde-cli-tools, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kde-dev-scripts, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kde-dev-utils, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kde-gtk-config, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kde-inotify-survey, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdebugsettings, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdeclarative, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdeclarative5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdeconnect, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdecoration, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kded, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdeedu-data, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdegraphics-mobipocket, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdegraphics-thumbnailers, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdenetwork-filesharing, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdenlive, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdepim-addons, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdepim-runtime, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdeplasma-addons, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdesdk-kio, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdesdk-thumbnailers, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdesu, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdesu5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdev-python, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdevelop, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdevelop-pg-qt, Version: 2.3.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdf, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdiagram, Version: 3.0.1, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdiagram5, Version: 2.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdialog, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdiamond, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdnssd, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdnssd5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdoctools, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdoctools5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdsoap, Version: 2.2.0, Architecture: x86_64, Build Version: 1
+Package: kdsoap-qt6, Version: 2.2.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kdsoap-ws-discovery-client, Version: 0.4.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: keditbookmarks, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kemoticons, Version: 5.116.0, Architecture: x86_64, Build Version: 1
+Package: kemoticons5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kernel-firmware, Version: 20241209_633e866, Architecture: noarch, Build Version: 1
+Package: kernel-generic, Version: 6.12.4, Architecture: x86_64, Build Version: 1
+Package: kernel-headers, Version: 6.12.4, Architecture: x86, Build Version: 1
+Package: kernel-source, Version: 6.12.4, Architecture: noarch, Build Version: 1
+Package: keybinder3, Version: 3.0_0.3.2, Architecture: x86_64, Build Version: 3
+Package: keysmith, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: keyutils, Version: 1.6.3, Architecture: x86_64, Build Version: 3
+Package: kfilemetadata, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kfilemetadata5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kfind, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kfourinline, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kgamma, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kgeography, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kget, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kglobalaccel, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kglobalaccel5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kglobalacceld, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kgoldrunner, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kgpg, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kgraphviewer, Version: 2.5.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kguiaddons, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kguiaddons5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: khangman, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: khealthcertificate, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: khelpcenter, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kholidays, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kholidays5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: khotkeys, Version: 5.27.11, Architecture: x86_64, Build Version: 1
+Package: khtml, Version: 5.116.0, Architecture: x86_64, Build Version: 1
+Package: ki18n, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: ki18n5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kiconthemes, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kiconthemes5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kid3, Version: 3.9.6, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kidentitymanagement, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kidletime, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kidletime5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kig, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kigo, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: killbots, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kimageannotator, Version: 0.7.1, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kimageformats, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kimagemapeditor, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kimap, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kinfocenter, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kinit, Version: 5.116.0, Architecture: x86_64, Build Version: 1
+Package: kinit5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kio, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kio-admin, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kio-extras, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kio-fuse, Version: 5.1.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kio-gdrive, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kio-zeroconf, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kio5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kipi-plugins, Version: 23.08.5, Architecture: x86_64, Build Version: 1
+Package: kirigami, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kirigami-addons, Version: 1.5.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kirigami-addons5, Version: 0.11.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kirigami-gallery, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kirigami2, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kiriki, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kirogi, Version: 09b4327d_git, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kitemmodels, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kitemmodels5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kitemviews, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kitemviews5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kiten, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kitinerary, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kjobwidgets, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kjobwidgets5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kjs, Version: 5.116.0, Architecture: x86_64, Build Version: 1
+Package: kjsembed, Version: 5.116.0, Architecture: x86_64, Build Version: 1
+Package: kjumpingcube, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kldap, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kleopatra, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: klettres, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: klevernotes, Version: 1.1.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: klickety, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: klines, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kmag, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kmahjongg, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kmail, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kmail-account-wizard, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kmailtransport, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kmbox, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kmediaplayer, Version: 5.116.0, Architecture: x86_64, Build Version: 1
+Package: kmenuedit, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kmime, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kmines, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kmix, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kmod, Version: 33, Architecture: x86_64, Build Version: 1
+Package: kmoretools, Version: bf1800a3_git, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kmousetool, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kmouth, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kmplot, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kmymoney, Version: 5.1.3, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: knavalbattle, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: knetwalk, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: knewstuff, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: knewstuff5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: knights, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: knotes, Version: 23.08.5, Architecture: x86_64, Build Version: 1
+Package: knotifications, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: knotifications5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: knotifyconfig, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: knotifyconfig5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: koko, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kolf, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kollision, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kolourpaint, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kommit, Version: 1.6.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kompare, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kongress, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: konqueror, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: konquest, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: konsole, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kontact, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kontactinterface, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kontrast, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: konversation, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kopeninghours, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kopete, Version: 23.08.5, Architecture: x86_64, Build Version: 1
+Package: korganizer, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kosmindoormap, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kpackage, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kpackage5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kparts, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kparts5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kpat, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kpeople, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kpeople5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kpeoplevcard, Version: 0.1, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kpimtextedit, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kpipewire, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kpkpass, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kplotting, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kplotting5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kpmcore, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kpty, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kpty5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kpublictransport, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kqtquickcharts, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kquickcharts, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kquickimageeditor, Version: 0.3.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: krb5, Version: 1.21.3, Architecture: x86_64, Build Version: 1
+Package: krdc, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: krdp, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: krename, Version: 5.0.2, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: krfb, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kross, Version: 5.116.0, Architecture: x86_64, Build Version: 1
+Package: kruler, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: krunner, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: krunner5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: krusader, Version: 2.8.1, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: ksanecore, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kscreen, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kscreenlocker, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kservice, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kservice5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: ksh93, Version: 1.0.10, Architecture: x86_64, Build Version: 1
+Package: ksirk, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: ksmtp, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: ksshaskpass, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kstatusnotifieritem, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: ksvg, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: ksystemlog, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: ksystemstats, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kteatime, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: ktextaddons, Version: 1.5.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: ktexteditor, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: ktexteditor5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: ktexttemplate, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: ktextwidgets, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: ktextwidgets5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: ktimer, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: ktimetracker, Version: 5.0.1, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: ktnef, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: ktorrent, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: ktouch, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: ktrip, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kturtle, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kunitconversion, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kup, Version: 0.10.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kuserfeedback, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kvazaar, Version: 2.3.1, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: kwallet, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kwallet-pam, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kwallet5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kwalletmanager, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kwave, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kwayland, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kwayland-integration, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kwayland5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kweather, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kweathercore, Version: 0.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kwidgetsaddons, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kwidgetsaddons5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kwin, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kwindowsystem, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kwindowsystem5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kwordquiz, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kwrite, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kwrited, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kxmlgui, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kxmlgui5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: kxmlrpcclient, Version: 5.116.0, Architecture: x86_64, Build Version: 1
+Package: lager, Version: 0.1.1, Architecture: x86_64, Build Version: 1
+Package: lame, Version: 3.100, Architecture: x86_64, Build Version: 5
+Package: latte-dock, Version: 0.10.9, Architecture: x86_64, Build Version: 1
+Package: layer-shell-qt, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: lbzip2, Version: 2.5, Architecture: x86_64, Build Version: 4
+Package: lcms, Version: 1.19, Architecture: x86_64, Build Version: 7
+Package: lcms2, Version: 2.16, Architecture: x86_64, Build Version: 2
+Package: lensfun, Version: 0.3.4, Architecture: x86_64, Build Version: 3
+Package: lensfun03, Version: 0.3.3, Architecture: x86_64, Build Version: 2, Tag: SBo
+Package: less, Version: 668, Architecture: x86_64, Build Version: 2
+Package: lftp, Version: 4.9.3, Architecture: x86_64, Build Version: 1
+Package: lhasa, Version: 0.4.0, Architecture: x86_64, Build Version: 1
+Package: libFS, Version: 1.0.10, Architecture: x86_64, Build Version: 1
+Package: libICE, Version: 1.1.1, Architecture: x86_64, Build Version: 1
+Package: libSM, Version: 1.2.4, Architecture: x86_64, Build Version: 1
+Package: libX11, Version: 1.8.10, Architecture: x86_64, Build Version: 1
+Package: libXScrnSaver, Version: 1.2.4, Architecture: x86_64, Build Version: 1
+Package: libXau, Version: 1.0.11, Architecture: x86_64, Build Version: 1
+Package: libXaw, Version: 1.0.16, Architecture: x86_64, Build Version: 1
+Package: libXaw3d, Version: 1.6.6, Architecture: x86_64, Build Version: 1
+Package: libXaw3dXft, Version: 1.6.2h, Architecture: x86_64, Build Version: 3
+Package: libXcm, Version: 0.5.4, Architecture: x86_64, Build Version: 3
+Package: libXcomposite, Version: 0.4.6, Architecture: x86_64, Build Version: 1
+Package: libXcursor, Version: 1.2.3, Architecture: x86_64, Build Version: 1
+Package: libXdamage, Version: 1.1.6, Architecture: x86_64, Build Version: 1
+Package: libXdmcp, Version: 1.1.5, Architecture: x86_64, Build Version: 1
+Package: libXevie, Version: 1.0.3, Architecture: x86_64, Build Version: 5
+Package: libXext, Version: 1.3.6, Architecture: x86_64, Build Version: 1
+Package: libXfixes, Version: 6.0.1, Architecture: x86_64, Build Version: 1
+Package: libXfont2, Version: 2.0.7, Architecture: x86_64, Build Version: 1
+Package: libXfontcache, Version: 1.0.5, Architecture: x86_64, Build Version: 5
+Package: libXft, Version: 2.3.8, Architecture: x86_64, Build Version: 1
+Package: libXi, Version: 1.8.2, Architecture: x86_64, Build Version: 1
+Package: libXinerama, Version: 1.1.5, Architecture: x86_64, Build Version: 1
+Package: libXmu, Version: 1.2.1, Architecture: x86_64, Build Version: 1
+Package: libXp, Version: 1.0.4, Architecture: x86_64, Build Version: 1
+Package: libXpm, Version: 3.5.17, Architecture: x86_64, Build Version: 1
+Package: libXpresent, Version: 1.0.1, Architecture: x86_64, Build Version: 1
+Package: libXrandr, Version: 1.5.4, Architecture: x86_64, Build Version: 1
+Package: libXrender, Version: 0.9.11, Architecture: x86_64, Build Version: 1
+Package: libXres, Version: 1.2.2, Architecture: x86_64, Build Version: 1
+Package: libXt, Version: 1.3.1, Architecture: x86_64, Build Version: 1
+Package: libXtst, Version: 1.2.5, Architecture: x86_64, Build Version: 1
+Package: libXv, Version: 1.0.12, Architecture: x86_64, Build Version: 1
+Package: libXvMC, Version: 1.0.14, Architecture: x86_64, Build Version: 1
+Package: libXxf86dga, Version: 1.1.6, Architecture: x86_64, Build Version: 1
+Package: libXxf86misc, Version: 1.0.4, Architecture: x86_64, Build Version: 3
+Package: libXxf86vm, Version: 1.1.5, Architecture: x86_64, Build Version: 1
+Package: libaccounts-glib, Version: 1.27, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libaccounts-qt, Version: 1.17, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libadwaita, Version: 1.6.1, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: libaio, Version: 0.3.113, Architecture: x86_64, Build Version: 1
+Package: libao, Version: 1.2.2, Architecture: x86_64, Build Version: 4
+Package: libappindicator, Version: 12.10.0, Architecture: x86_64, Build Version: 4
+Package: libarchive, Version: 3.7.7, Architecture: x86_64, Build Version: 1
+Package: libass, Version: 0.17.3, Architecture: x86_64, Build Version: 1
+Package: libassuan, Version: 2.5.7, Architecture: x86_64, Build Version: 1
+Package: libasyncns, Version: 0.8, Architecture: x86_64, Build Version: 6
+Package: libatasmart, Version: 0.19, Architecture: x86_64, Build Version: 5
+Package: libavc1394, Version: 0.5.4, Architecture: x86_64, Build Version: 2, Tag: SBo
+Package: libavif, Version: 1.1.1, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: libayatana-appindicator, Version: 0.5.93, Architecture: x86_64, Build Version: 1cf
+Package: libayatana-indicator, Version: 0.9.4, Architecture: x86_64, Build Version: 1cf
+Package: libbacktrace, Version: 3d0be_git, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libblockdev, Version: 3.2.1, Architecture: x86_64, Build Version: 2
+Package: libbluray, Version: 1.3.4, Architecture: x86_64, Build Version: 1
+Package: libbonobo, Version: 2.32.1, Architecture: x86_64, Build Version: 4, Tag: SBo
+Package: libbsd, Version: 0.11.7, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: libburn, Version: 1.5.6, Architecture: x86_64, Build Version: 1
+Package: libbytesize, Version: 2.11, Architecture: x86_64, Build Version: 2
+Package: libcaca, Version: 0.99.beta20, Architecture: x86_64, Build Version: 3
+Package: libcanberra, Version: 0.30, Architecture: x86_64, Build Version: 9
+Package: libcap, Version: 2.73, Architecture: x86_64, Build Version: 1
+Package: libcap-ng, Version: 0.8.5, Architecture: x86_64, Build Version: 2
+Package: libcddb, Version: 1.3.2, Architecture: x86_64, Build Version: 8
+Package: libcdio, Version: 2.1.0, Architecture: x86_64, Build Version: 4
+Package: libcdio-paranoia, Version: 10.2+2.0.2, Architecture: x86_64, Build Version: 1
+Package: libcgroup, Version: 0.41, Architecture: x86_64, Build Version: 11
+Package: libclc, Version: 19.1.5, Architecture: x86_64, Build Version: 1
+Package: libconfig, Version: 1.7.3, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: libcue, Version: 2.3.0, Architecture: x86_64, Build Version: 1
+Package: libcuefile, Version: r475, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: libcupsfilters, Version: 2.1.0, Architecture: x86_64, Build Version: 1
+Package: libdaemon, Version: 0.14, Architecture: x86_64, Build Version: 1
+Package: libdbusmenu, Version: 16.04.0, Architecture: x86_64, Build Version: 3
+Package: libdbusmenu-qt, Version: 0.9.3+16.04.20160218, Architecture: x86_64, Build Version: 3
+Package: libdc1394, Version: 2.2.6, Architecture: x86_64, Build Version: 2, Tag: SBo
+Package: libdca, Version: 0.0.7, Architecture: x86_64, Build Version: 3, Tag: SBo
+Package: libde265, Version: 1.0.15, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: libdeflate, Version: 1.22, Architecture: x86_64, Build Version: 1
+Package: libdex, Version: 0.6.1, Architecture: x86_64, Build Version: 1, Tag: gfs
+Package: libdiscid, Version: 0.6.4, Architecture: x86_64, Build Version: 2
+Package: libdisplay-info, Version: 0.2.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libdmtx, Version: 0.7.7, Architecture: x86_64, Build Version: 1
+Package: libdmx, Version: 1.1.5, Architecture: x86_64, Build Version: 1
+Package: libdrm, Version: 2.4.124, Architecture: x86_64, Build Version: 1
+Package: libdvbpsi, Version: 1.3.3, Architecture: x86_64, Build Version: 2, Tag: SBo
+Package: libdvdcss, Version: 1.4.3, Architecture: x86_64, Build Version: 2, Tag: SBo
+Package: libdvdnav, Version: 6.1.1, Architecture: x86_64, Build Version: 1
+Package: libdvdread, Version: 6.1.3, Architecture: x86_64, Build Version: 1
+Package: libedit, Version: 20240808_3.1, Architecture: x86_64, Build Version: 1
+Package: libepoxy, Version: 1.5.10, Architecture: x86_64, Build Version: 1
+Package: liberation-fonts-ttf, Version: 2.1.5, Architecture: noarch, Build Version: 2
+Package: libev, Version: 4.33, Architecture: x86_64, Build Version: 1
+Package: libevdev, Version: 1.13.3, Architecture: x86_64, Build Version: 1
+Package: libevent, Version: 2.1.12, Architecture: x86_64, Build Version: 4
+Package: libexif, Version: 0.6.24, Architecture: x86_64, Build Version: 1
+Package: libfakekey, Version: 0.3, Architecture: x86_64, Build Version: 4
+Package: libffi, Version: 3.4.6, Architecture: x86_64, Build Version: 1
+Package: libfontenc, Version: 1.1.8, Architecture: x86_64, Build Version: 1
+Package: libfprint, Version: 1.94.8, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libgccjit, Version: 14.2.0, Architecture: x86_64, Build Version: 1
+Package: libgcrypt, Version: 1.11.0, Architecture: x86_64, Build Version: 1
+Package: libgee, Version: 0.20.6, Architecture: x86_64, Build Version: 1
+Package: libgit2, Version: 1.8.4, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: libglade, Version: 2.6.4, Architecture: x86_64, Build Version: 8
+Package: libglvnd, Version: 1.7.0, Architecture: x86_64, Build Version: 2
+Package: libgme, Version: 0.6.3, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: libgnome-keyring, Version: 3.12.0, Architecture: x86_64, Build Version: 4
+Package: libgnt, Version: 2.14.4_dev, Architecture: x86_64, Build Version: 1
+Package: libgpg-error, Version: 1.51, Architecture: x86_64, Build Version: 1
+Package: libgphoto2, Version: 2.5.31, Architecture: x86_64, Build Version: 1
+Package: libgpod, Version: 0.8.3, Architecture: x86_64, Build Version: 13
+Package: libgravatar, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libgsf, Version: 1.14.53, Architecture: x86_64, Build Version: 1
+Package: libgtop, Version: 2.41.3, Architecture: x86_64, Build Version: 1
+Package: libgudev, Version: 238, Architecture: x86_64, Build Version: 1
+Package: libgusb, Version: 0.4.9, Architecture: x86_64, Build Version: 1
+Package: libhandy, Version: 1.8.3, Architecture: x86_64, Build Version: 1
+Package: libhangul, Version: 0.1.0, Architecture: x86_64, Build Version: 4
+Package: libheif, Version: 1.18.2, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: libical, Version: 3.0.18, Architecture: x86_64, Build Version: 2
+Package: libid3tag, Version: 0.15.1b, Architecture: x86_64, Build Version: 7
+Package: libidl, Version: 0.8.14, Architecture: x86_64, Build Version: 4
+Package: libidn, Version: 1.42, Architecture: x86_64, Build Version: 1
+Package: libidn2, Version: 2.3.7, Architecture: x86_64, Build Version: 1
+Package: libieee1284, Version: 0.2.11, Architecture: x86_64, Build Version: 8
+Package: libime, Version: 1.1.9, Architecture: x86_64, Build Version: 2
+Package: libimobiledevice, Version: 20231007_04c0233, Architecture: x86_64, Build Version: 2
+Package: libimobiledevice-glue, Version: 20231110_e314faa, Architecture: x86_64, Build Version: 1
+Package: libindi, Version: 2.1.1, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libindicator, Version: 12.10.1, Architecture: x86_64, Build Version: 3
+Package: libinput, Version: 1.27.0, Architecture: x86_64, Build Version: 1
+Package: libiodbc, Version: 3.52.16, Architecture: x86_64, Build Version: 1
+Package: libjpeg-turbo, Version: 3.0.4, Architecture: x86_64, Build Version: 1
+Package: libjxl, Version: 0.11.0, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: libkarma, Version: 0.1.2, Architecture: x86_64, Build Version: 3
+Package: libkate, Version: 0.4.1, Architecture: x86_64, Build Version: 3, Tag: SBo
+Package: libkcddb, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libkcompactdisc, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libkdcraw, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libkdegames, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libkdepim, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libkeduvocdocument, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libkexiv2, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libkgapi, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libkipi, Version: 23.08.5, Architecture: x86_64, Build Version: 1
+Package: libkkc, Version: 0.3.5, Architecture: x86_64, Build Version: 5
+Package: libkkc-data, Version: 0.2.7, Architecture: x86_64, Build Version: 5
+Package: libkleo, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libkmahjongg, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libkomparediff2, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libksane, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libksba, Version: 1.6.7, Architecture: x86_64, Build Version: 1
+Package: libkscreen, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libksieve, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libksysguard, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libktorrent, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libmad, Version: 0.15.1b, Architecture: x86_64, Build Version: 6
+Package: libmbim, Version: 1.30.0, Architecture: x86_64, Build Version: 1
+Package: libmcrypt, Version: 2.5.8, Architecture: x86_64, Build Version: 4
+Package: libmd, Version: 1.1.0, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: libmilter, Version: 8.18.1, Architecture: x86_64, Build Version: 1
+Package: libminizip, Version: 1.2.13, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: libmng, Version: 2.0.3, Architecture: x86_64, Build Version: 4
+Package: libmnl, Version: 1.0.5, Architecture: x86_64, Build Version: 1
+Package: libmodplug, Version: 0.8.9.0, Architecture: x86_64, Build Version: 2, Tag: SBo
+Package: libmpc, Version: 1.3.1, Architecture: x86_64, Build Version: 1
+Package: libmpeg2, Version: 0.5.1, Architecture: x86_64, Build Version: 2, Tag: SBo
+Package: libmtp, Version: 1.1.22, Architecture: x86_64, Build Version: 1
+Package: libmypaint, Version: 1.6.1, Architecture: x86_64, Build Version: 4
+Package: libndp, Version: 1.9, Architecture: x86_64, Build Version: 1
+Package: libnetfilter_acct, Version: 1.0.3, Architecture: x86_64, Build Version: 4
+Package: libnetfilter_conntrack, Version: 1.1.0, Architecture: x86_64, Build Version: 1
+Package: libnetfilter_cthelper, Version: 1.0.1, Architecture: x86_64, Build Version: 1
+Package: libnetfilter_cttimeout, Version: 1.0.1, Architecture: x86_64, Build Version: 1
+Package: libnetfilter_log, Version: 1.0.2, Architecture: x86_64, Build Version: 1
+Package: libnetfilter_queue, Version: 1.0.5, Architecture: x86_64, Build Version: 3
+Package: libnfnetlink, Version: 1.0.2, Architecture: x86_64, Build Version: 1
+Package: libnfs, Version: 5.0.3, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: libnftnl, Version: 1.2.8, Architecture: x86_64, Build Version: 1
+Package: libnice, Version: 0.1.22, Architecture: x86_64, Build Version: 1
+Package: libnih, Version: 1.0.3, Architecture: x86_64, Build Version: 5
+Package: libnjb, Version: 2.2.7, Architecture: x86_64, Build Version: 5
+Package: libnl, Version: 1.1.4, Architecture: x86_64, Build Version: 5
+Package: libnl3, Version: 3.11.0, Architecture: x86_64, Build Version: 1
+Package: libnma, Version: 1.10.6, Architecture: x86_64, Build Version: 1
+Package: libnma-gtk4, Version: 1.10.6, Architecture: x86_64, Build Version: 4, Tag: gfs
+Package: libnotify, Version: 0.8.3, Architecture: x86_64, Build Version: 1
+Package: libnova, Version: 0.15.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libnsl, Version: 2.0.1, Architecture: x86_64, Build Version: 1
+Package: libnss_nis, Version: 3.2, Architecture: x86_64, Build Version: 1
+Package: libnvme, Version: 1.11.1, Architecture: x86_64, Build Version: 2
+Package: liboauth, Version: 1.0.3, Architecture: x86_64, Build Version: 4, Tag: gfs
+Package: libodfgen, Version: 0.1.8, Architecture: x86_64, Build Version: 3
+Package: libogg, Version: 1.3.5, Architecture: x86_64, Build Version: 1
+Package: liboggz, Version: 1.1.1, Architecture: x86_64, Build Version: 5
+Package: liboil, Version: 0.3.17, Architecture: x86_64, Build Version: 4
+Package: libopensles-standalone, Version: 20240221_git, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libopusenc, Version: 0.2.1, Architecture: x86_64, Build Version: 3
+Package: libpaper, Version: 2.2.5, Architecture: x86_64, Build Version: 1
+Package: libpcap, Version: 1.10.5, Architecture: x86_64, Build Version: 1
+Package: libpciaccess, Version: 0.18.1, Architecture: x86_64, Build Version: 1
+Package: libpeas, Version: 1.36.0, Architecture: x86_64, Build Version: 4, Tag: gfs
+Package: libphonenumber, Version: 8.13.49, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libpinyin, Version: 2.8.1, Architecture: x86_64, Build Version: 1
+Package: libplacebo, Version: 7.349.0, Architecture: x86_64, Build Version: 2
+Package: libplasma, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libplist, Version: 2.6.0, Architecture: x86_64, Build Version: 2
+Package: libpng, Version: 1.6.44, Architecture: x86_64, Build Version: 1
+Package: libportal, Version: 0.8.1, Architecture: x86_64, Build Version: 1, Tag: gfs
+Package: libppd, Version: 2.1.0, Architecture: x86_64, Build Version: 2
+Package: libproxy, Version: 0.5.9, Architecture: x86_64, Build Version: 1
+Package: libpsl, Version: 0.21.5, Architecture: x86_64, Build Version: 1
+Package: libpthread-stubs, Version: 0.5, Architecture: x86_64, Build Version: 1
+Package: libptytty, Version: 2.0, Architecture: x86_64, Build Version: 1
+Package: libpwquality, Version: 1.4.5, Architecture: x86_64, Build Version: 3
+Package: libqaccessibilityclient, Version: 0.6.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libqalculate, Version: 5.4.0.1, Architecture: x86_64, Build Version: 1
+Package: libqmi, Version: 1.34.0, Architecture: x86_64, Build Version: 2
+Package: libqrtr-glib, Version: 1.2.2, Architecture: x86_64, Build Version: 1
+Package: libquotient, Version: 0.9.1, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libraw1394, Version: 2.1.2, Architecture: x86_64, Build Version: 4
+Package: libreoffice, Version: 24.8.3, Architecture: x86_64, Build Version: 1alien
+Package: libreplaygain, Version: r475, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: librevenge, Version: 0.0.5, Architecture: x86_64, Build Version: 1
+Package: librsvg, Version: 2.58.5, Architecture: x86_64, Build Version: 1
+Package: libsamplerate, Version: 0.2.2, Architecture: x86_64, Build Version: 1
+Package: libsass, Version: 3.6.6, Architecture: x86_64, Build Version: 1
+Package: libseccomp, Version: 2.5.5, Architecture: x86_64, Build Version: 1
+Package: libsecret, Version: 0.21.4, Architecture: x86_64, Build Version: 1
+Package: libshout, Version: 2.4.5, Architecture: x86_64, Build Version: 3, Tag: SBo
+Package: libsidplay2, Version: 2.1.1, Architecture: x86_64, Build Version: 5, Tag: SBo
+Package: libsigc++, Version: 2.12.1, Architecture: x86_64, Build Version: 1
+Package: libsigc++3, Version: 3.6.0, Architecture: x86_64, Build Version: 1
+Package: libsigsegv, Version: 2.14, Architecture: x86_64, Build Version: 1
+Package: libsndfile, Version: 1.2.2, Architecture: x86_64, Build Version: 1
+Package: libsodium, Version: 1.0.20, Architecture: x86_64, Build Version: 1
+Package: libsoup, Version: 2.74.3, Architecture: x86_64, Build Version: 1
+Package: libsoup3, Version: 3.6.1, Architecture: x86_64, Build Version: 1
+Package: libspectre, Version: 0.2.12, Architecture: x86_64, Build Version: 2
+Package: libsrtp, Version: 1.6.0, Architecture: x86_64, Build Version: 2, Tag: SBo
+Package: libsrtp2, Version: 2.5.0, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: libssh, Version: 0.11.1, Architecture: x86_64, Build Version: 1
+Package: libssh2, Version: 1.11.1, Architecture: x86_64, Build Version: 1
+Package: libstemmer, Version: 2.2.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libtar, Version: 1.2.20, Architecture: x86_64, Build Version: 3, Tag: SBo
+Package: libtasn1, Version: 4.19.0, Architecture: x86_64, Build Version: 1
+Package: libtheora, Version: 1.1.1, Architecture: x86_64, Build Version: 4
+Package: libtiff, Version: 4.7.0, Architecture: x86_64, Build Version: 1
+Package: libtirpc, Version: 1.3.6, Architecture: x86_64, Build Version: 1
+Package: libtool, Version: 2.5.4, Architecture: x86_64, Build Version: 1
+Package: libunibreak, Version: 6.1, Architecture: x86_64, Build Version: 1
+Package: libunistring, Version: 1.3, Architecture: x86_64, Build Version: 1
+Package: libunwind, Version: 1.8.1, Architecture: x86_64, Build Version: 1
+Package: libupnp, Version: 1.14.19, Architecture: x86_64, Build Version: 1cf
+Package: liburing, Version: 2.8, Architecture: x86_64, Build Version: 1
+Package: libusb, Version: 1.0.27, Architecture: x86_64, Build Version: 1
+Package: libusb-compat, Version: 0.1.8, Architecture: x86_64, Build Version: 1
+Package: libusbmuxd, Version: 20230901_30e678d, Architecture: x86_64, Build Version: 1
+Package: libusbsio, Version: 2.1.13, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libuv, Version: 1.49.2, Architecture: x86_64, Build Version: 1
+Package: libva, Version: 2.22.0, Architecture: x86_64, Build Version: 1
+Package: libva-utils, Version: 2.22.0, Architecture: x86_64, Build Version: 1
+Package: libvdpau, Version: 1.5, Architecture: x86_64, Build Version: 1
+Package: libvdpau-va-gl, Version: 0.4.2, Architecture: x86_64, Build Version: 2, Tag: SBo
+Package: libvisio, Version: 0.1.8, Architecture: x86_64, Build Version: 2
+Package: libvisual, Version: 0.4.2, Architecture: x86_64, Build Version: 1
+Package: libvisual-plugins, Version: 0.4.2, Architecture: x86_64, Build Version: 1
+Package: libvncserver, Version: 0.9.14, Architecture: x86_64, Build Version: 3
+Package: libvorbis, Version: 1.3.7, Architecture: x86_64, Build Version: 3
+Package: libvpx, Version: 1.15.0, Architecture: x86_64, Build Version: 1
+Package: libwacom, Version: 2.14.0, Architecture: x86_64, Build Version: 1
+Package: libwebp, Version: 1.4.0, Architecture: x86_64, Build Version: 2
+Package: libwmf, Version: 0.2.13, Architecture: x86_64, Build Version: 1
+Package: libwnck, Version: 2.31.0, Architecture: x86_64, Build Version: 5
+Package: libwnck3, Version: 43.1, Architecture: x86_64, Build Version: 1
+Package: libwpd, Version: 0.10.3, Architecture: x86_64, Build Version: 3
+Package: libwpe, Version: 1.16.0, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: libwpg, Version: 0.3.4, Architecture: x86_64, Build Version: 1
+Package: libx86, Version: 1.1, Architecture: x86_64, Build Version: 5
+Package: libxcb, Version: 1.17.0, Architecture: x86_64, Build Version: 1
+Package: libxcvt, Version: 0.1.2, Architecture: x86_64, Build Version: 1
+Package: libxfce4ui, Version: 4.18.6, Architecture: x86_64, Build Version: 1
+Package: libxfce4util, Version: 4.18.2, Architecture: x86_64, Build Version: 1
+Package: libxkbcommon, Version: 1.7.0, Architecture: x86_64, Build Version: 1
+Package: libxkbfile, Version: 1.1.3, Architecture: x86_64, Build Version: 1
+Package: libxklavier, Version: 5.4, Architecture: x86_64, Build Version: 4
+Package: libxml2, Version: 2.13.5, Architecture: x86_64, Build Version: 2
+Package: libxmlb, Version: 0.3.21, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: libxshmfence, Version: 1.3.2, Architecture: x86_64, Build Version: 1
+Package: libxslt, Version: 1.1.42, Architecture: x86_64, Build Version: 2
+Package: libyaml, Version: 0.2.5, Architecture: x86_64, Build Version: 3
+Package: libyuv, Version: 20240116_95d8726, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: libzip, Version: 1.11.2, Architecture: x86_64, Build Version: 1
+Package: licentia, Version: b58fc6ed_git, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: lilo, Version: 24.2, Architecture: x86_64, Build Version: 12
+Package: links, Version: 2.30, Architecture: x86_64, Build Version: 1
+Package: linux-faqs, Version: 20060228, Architecture: noarch, Build Version: 1
+Package: linux-howtos, Version: 20160401, Architecture: noarch, Build Version: 1
+Package: linuxdoc-tools, Version: 0.9.83, Architecture: x86_64, Build Version: 2
+Package: listres, Version: 1.0.6, Architecture: x86_64, Build Version: 1
+Package: live555, Version: 2020.08.19, Architecture: x86_64, Build Version: 2, Tag: SBo
+Package: lla, Version: 0.2.10, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: llvm, Version: 19.1.5, Architecture: x86_64, Build Version: 1
+Package: lm_sensors, Version: 3.6.0, Architecture: x86_64, Build Version: 3
+Package: lmdb, Version: 0.9.33, Architecture: x86_64, Build Version: 1
+Package: lndir, Version: 1.0.5, Architecture: x86_64, Build Version: 1
+Package: logrotate, Version: 3.22.0, Architecture: x86_64, Build Version: 1
+Package: lokalize, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: loudmouth, Version: 1.5.4, Architecture: x86_64, Build Version: 3
+Package: lrzip, Version: 0.651, Architecture: x86_64, Build Version: 1
+Package: lsof, Version: 4.99.4, Architecture: x86_64, Build Version: 1
+Package: lsscsi, Version: 0.32, Architecture: x86_64, Build Version: 1
+Package: lua, Version: 5.4.7, Architecture: x86_64, Build Version: 1
+Package: luaexpat, Version: 1.5.1, Architecture: x86_64, Build Version: 2, Tag: SBo
+Package: luajit, Version: 2.1.1732813678, Architecture: x86_64, Build Version: 1
+Package: luit, Version: 1.1.1, Architecture: x86_64, Build Version: 5
+Package: lvm2, Version: 2.03.29, Architecture: x86_64, Build Version: 1
+Package: lxc, Version: 6.0.2, Architecture: x86_64, Build Version: 1
+Package: lynx, Version: 2.9.2, Architecture: x86_64, Build Version: 1
+Package: lz4, Version: 1.10.0, Architecture: x86_64, Build Version: 2
+Package: lzip, Version: 1.24.1, Architecture: x86_64, Build Version: 1
+Package: lzlib, Version: 1.14, Architecture: x86_64, Build Version: 1
+Package: lzo, Version: 2.10, Architecture: x86_64, Build Version: 4
+Package: m17n-lib, Version: 1.8.4, Architecture: x86_64, Build Version: 1
+Package: m4, Version: 1.4.19, Architecture: x86_64, Build Version: 1
+Package: madplay, Version: 0.15.2b, Architecture: x86_64, Build Version: 7
+Package: mailcommon, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: mailimporter, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: make, Version: 4.4.1, Architecture: x86_64, Build Version: 1
+Package: makedepend, Version: 1.0.9, Architecture: x86_64, Build Version: 1
+Package: malcontent, Version: 0.11.1, Architecture: x86_64, Build Version: 2, Tag: gfs
+Package: maliit-framework, Version: 2.3.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: man-db, Version: 2.13.0, Architecture: x86_64, Build Version: 2
+Package: man-pages, Version: 6.9.1, Architecture: noarch, Build Version: 1
+Package: marble, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: mariadb, Version: 11.4.4, Architecture: x86_64, Build Version: 5
+Package: marisa, Version: 0.2.6, Architecture: x86_64, Build Version: 12
+Package: marknote, Version: 1.3.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: massif-visualizer, Version: 0.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: mauikit, Version: 4.0.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: mauikit-filebrowsing, Version: 4.0.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: mauiman, Version: 4.0.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: mc, Version: 4.8.32, Architecture: x86_64, Build Version: 1
+Package: mcabber, Version: 1.1.2, Architecture: x86_64, Build Version: 3
+Package: mcelog, Version: 202, Architecture: x86_64, Build Version: 1
+Package: mdadm, Version: 4.3, Architecture: x86_64, Build Version: 1
+Package: media-player-info, Version: 26, Architecture: noarch, Build Version: 1
+Package: mercurial, Version: 6.9, Architecture: x86_64, Build Version: 2
+Package: merkuro, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: mesa, Version: 24.3.1, Architecture: x86_64, Build Version: 2
+Package: meson, Version: 1.6.0, Architecture: x86_64, Build Version: 2
+Package: messagelib, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: metamail, Version: 2.7, Architecture: x86_64, Build Version: 11
+Package: mhash, Version: 0.9.9.9, Architecture: x86_64, Build Version: 6
+Package: milou, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: mimetreeparser, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: minicom, Version: 2.9, Architecture: x86_64, Build Version: 1
+Package: minuet, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: mkcomposecache, Version: 1.2.2, Architecture: x86_64, Build Version: 1
+Package: mkfontscale, Version: 1.2.3, Architecture: x86_64, Build Version: 1
+Package: mkinitrd, Version: 1.4.11, Architecture: x86_64, Build Version: 56
+Package: mlocate, Version: 0.26, Architecture: x86_64, Build Version: 4
+Package: mlt, Version: 7.28.0, Architecture: x86_64, Build Version: 1
+Package: mm, Version: 1.4.2, Architecture: x86_64, Build Version: 5
+Package: mm-common, Version: 1.0.6, Architecture: x86_64, Build Version: 1cf
+Package: mobile-broadband-provider-info, Version: 20240502, Architecture: noarch, Build Version: 1
+Package: moc, Version: 2.6_alpha3, Architecture: x86_64, Build Version: 4
+Package: modemmanager-qt, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: mosh, Version: 1.4.0, Architecture: x86_64, Build Version: 5
+Package: most, Version: 5.2.0, Architecture: x86_64, Build Version: 1
+Package: motif, Version: 2.3.8, Architecture: x86_64, Build Version: 6
+Package: mousepad, Version: 0.6.3, Architecture: x86_64, Build Version: 1
+Package: mozilla-firefox, Version: 128.5.1esr, Architecture: x86_64, Build Version: 1
+Package: mozilla-nss, Version: 3.107, Architecture: x86_64, Build Version: 1
+Package: mozilla-thunderbird, Version: 128.5.2esr, Architecture: x86_64, Build Version: 1
+Package: mozjs128, Version: 128.5.1esr, Architecture: x86_64, Build Version: 1
+Package: mpfr, Version: 4.2.1, Architecture: x86_64, Build Version: 1
+Package: mpg123, Version: 1.32.9, Architecture: x86_64, Build Version: 1
+Package: mpv, Version: 0.39.0, Architecture: x86_64, Build Version: 1
+Package: mpvqt, Version: 1.0.1, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: mt-st, Version: 1.7, Architecture: x86_64, Build Version: 1
+Package: mtdev, Version: 1.1.7, Architecture: x86_64, Build Version: 1
+Package: mtr, Version: 0.95, Architecture: x86_64, Build Version: 2
+Package: mtx, Version: 1.3.12, Architecture: x86_64, Build Version: 4
+Package: mujs, Version: 1.3.5, Architecture: x86_64, Build Version: 1
+Package: musepack-tools, Version: r475, Architecture: x86_64, Build Version: 2, Tag: SBo
+Package: mutt, Version: 2.2.13, Architecture: x86_64, Build Version: 1
+Package: mypaint-brushes, Version: 1.3.1, Architecture: noarch, Build Version: 1
+Package: nano, Version: 8.2, Architecture: x86_64, Build Version: 1
+Package: nasm, Version: 2.16.03, Architecture: x86_64, Build Version: 1
+Package: nc, Version: 1.10, Architecture: x86_64, Build Version: 4
+Package: ncftp, Version: 3.2.7, Architecture: x86_64, Build Version: 1
+Package: ncompress, Version: 5.0, Architecture: x86_64, Build Version: 2
+Package: ncurses, Version: 6.5, Architecture: x86_64, Build Version: 1
+Package: ndctl, Version: 79, Architecture: x86_64, Build Version: 2
+Package: neochat, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: neofetch, Version: 20211210_ccd5d9f5, Architecture: noarch, Build Version: 1
+Package: neon, Version: 0.34.0, Architecture: x86_64, Build Version: 1
+Package: net-snmp, Version: 5.9.4, Architecture: x86_64, Build Version: 6
+Package: net-tools, Version: 20181103_0eebece, Architecture: x86_64, Build Version: 3
+Package: netatalk, Version: 4.0.8, Architecture: x86_64, Build Version: 1
+Package: netdate, Version: bsd4, Architecture: x86_64, Build Version: 4
+Package: nethack, Version: 3.6.7, Architecture: x86_64, Build Version: 2
+Package: netkit-bootparamd, Version: 0.17, Architecture: x86_64, Build Version: 6
+Package: netkit-ftp, Version: 0.17, Architecture: x86_64, Build Version: 8
+Package: netkit-ntalk, Version: 0.17, Architecture: x86_64, Build Version: 8
+Package: netkit-routed, Version: 0.17, Architecture: x86_64, Build Version: 4
+Package: netkit-rsh, Version: 0.17, Architecture: x86_64, Build Version: 5
+Package: netkit-rusers, Version: 0.17, Architecture: x86_64, Build Version: 5
+Package: netkit-rwall, Version: 0.17, Architecture: x86_64, Build Version: 5
+Package: netkit-rwho, Version: 0.17, Architecture: x86_64, Build Version: 5
+Package: netkit-timed, Version: 0.17, Architecture: x86_64, Build Version: 4
+Package: netpbm, Version: 11.08.02, Architecture: x86_64, Build Version: 1
+Package: netpipes, Version: 4.2, Architecture: x86_64, Build Version: 4
+Package: nettle, Version: 3.10, Architecture: x86_64, Build Version: 1
+Package: netwatch, Version: 1.3.1_2, Architecture: x86_64, Build Version: 6
+Package: network-manager-applet, Version: 1.36.0, Architecture: x86_64, Build Version: 1
+Package: network-scripts, Version: 15.1, Architecture: noarch, Build Version: 1
+Package: networkmanager-qt, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: netwrite, Version: 0.17, Architecture: x86_64, Build Version: 4
+Package: newspost, Version: 2.1.1, Architecture: x86_64, Build Version: 4
+Package: newt, Version: 0.52.24, Architecture: x86_64, Build Version: 4
+Package: nfacct, Version: 1.0.2, Architecture: x86_64, Build Version: 4
+Package: nfs-utils, Version: 2.8.2, Architecture: x86_64, Build Version: 1
+Package: nftables, Version: 1.1.1, Architecture: x86_64, Build Version: 2
+Package: nghttp2, Version: 1.64.0, Architecture: x86_64, Build Version: 1
+Package: nghttp3, Version: 1.6.0, Architecture: x86_64, Build Version: 1
+Package: ninja, Version: 1.12.1, Architecture: x86_64, Build Version: 2
+Package: nmap, Version: 7.95, Architecture: x86_64, Build Version: 3
+Package: nn, Version: 6.7.3, Architecture: x86_64, Build Version: 9
+Package: nodejs, Version: 20.18.1, Architecture: x86_64, Build Version: 1
+Package: normalize, Version: 0.7.7, Architecture: x86_64, Build Version: 5
+Package: noto-cjk-fonts-ttf, Version: 2.004, Architecture: noarch, Build Version: 1
+Package: noto-emoji, Version: 2.047, Architecture: noarch, Build Version: 1
+Package: noto-fonts-ttf, Version: 2024.12.01, Architecture: noarch, Build Version: 1
+Package: npth, Version: 1.8, Architecture: x86_64, Build Version: 1
+Package: nss-mdns, Version: 0.15.1, Architecture: x86_64, Build Version: 1
+Package: nss-pam-ldapd, Version: 0.9.12, Architecture: x86_64, Build Version: 5
+Package: ntfs-3g, Version: 2022.10.3, Architecture: x86_64, Build Version: 1
+Package: ntp, Version: 4.2.8p18, Architecture: x86_64, Build Version: 6
+Package: nut, Version: 2.8.2, Architecture: x86_64, Build Version: 2
+Package: nv-codec-headers, Version: 12.2.72.0, Architecture: x86_64, Build Version: 1
+Package: nvi, Version: 1.81.6, Architecture: x86_64, Build Version: 3
+Package: nvme-cli, Version: 2.11, Architecture: x86_64, Build Version: 1
+Package: obexftp, Version: 0.24.2, Architecture: x86_64, Build Version: 14
+Package: ocean-sound-theme, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: ocl-icd, Version: 2.3.2, Architecture: x86_64, Build Version: 1
+Package: oclock, Version: 1.0.6, Architecture: x86_64, Build Version: 1
+Package: okteta, Version: 0.26.18, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: okular, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: olm, Version: 3.2.16, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: oniguruma, Version: 6.9.9, Architecture: x86_64, Build Version: 1
+Package: openal-soft, Version: 1.24.1, Architecture: x86_64, Build Version: 1
+Package: opencl-headers, Version: 2024.05.08, Architecture: noarch, Build Version: 1
+Package: opencv, Version: 4.10.0, Architecture: x86_64, Build Version: 3
+Package: openexr, Version: 3.3.2, Architecture: x86_64, Build Version: 1
+Package: openjdk17, Version: 17.0.13_11, Architecture: x86_64, Build Version: 1alien
+Package: openjdk7, Version: 7u321, Architecture: x86_64, Build Version: 2, Tag: SBo
+Package: openjpeg, Version: 2.5.3, Architecture: x86_64, Build Version: 1
+Package: openldap, Version: 2.6.9, Architecture: x86_64, Build Version: 1
+Package: openobex, Version: 1.7.2, Architecture: x86_64, Build Version: 6
+Package: openrc-settingsd, Version: 1.5.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: openresolv, Version: 3.13.2, Architecture: noarch, Build Version: 1
+Package: openssh, Version: 9.9p1, Architecture: x86_64, Build Version: 1
+Package: openssl, Version: 3.4.0, Architecture: x86_64, Build Version: 1
+Package: openssl-solibs, Version: 3.4.0, Architecture: x86_64, Build Version: 1
+Package: openssl11, Version: 1.1.1zb, Architecture: x86_64, Build Version: 1
+Package: openssl11-solibs, Version: 1.1.1zb, Architecture: x86_64, Build Version: 1
+Package: openvpn, Version: 2.6.12, Architecture: x86_64, Build Version: 1
+Package: openxr, Version: 1.1.43, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: oprofile, Version: 1.4.0, Architecture: x86_64, Build Version: 15
+Package: optiimage, Version: a9eaa64c_git, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: opus, Version: 1.5.2, Architecture: x86_64, Build Version: 1
+Package: opus-tools, Version: 0.2, Architecture: x86_64, Build Version: 4
+Package: opusfile, Version: 0.12, Architecture: x86_64, Build Version: 4
+Package: orc, Version: 0.4.40, Architecture: x86_64, Build Version: 2
+Package: orca, Version: 41.3, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: os-prober, Version: 1.83, Architecture: x86_64, Build Version: 3
+Package: ostree, Version: 2021.3, Architecture: x86_64, Build Version: 2, Tag: SBo
+Package: oxipng, Version: 9.1.2, Architecture: x86_64, Build Version: 1cf
+Package: oxygen, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: oxygen-icons, Version: 6.1.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: oxygen-sounds, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: p11-kit, Version: 0.25.5, Architecture: x86_64, Build Version: 1
+Package: p2c, Version: 2.02, Architecture: x86_64, Build Version: 1
+Package: pahole, Version: 1.28, Architecture: x86_64, Build Version: 1
+Package: pam, Version: 1.6.1, Architecture: x86_64, Build Version: 1
+Package: pam-krb5, Version: 4.11, Architecture: x86_64, Build Version: 1
+Package: pamixer, Version: 1.6, Architecture: x86_64, Build Version: 2
+Package: pan, Version: 0.161, Architecture: x86_64, Build Version: 1
+Package: pango, Version: 1.54.0, Architecture: x86_64, Build Version: 1
+Package: pangomm, Version: 2.46.4, Architecture: x86_64, Build Version: 1
+Package: pangomm2, Version: 2.54.0, Architecture: x86_64, Build Version: 1
+Package: parallel, Version: 20241122, Architecture: noarch, Build Version: 1
+Package: parley, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: parted, Version: 3.6, Architecture: x86_64, Build Version: 1
+Package: partitionmanager, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: patch, Version: 2.7.6, Architecture: x86_64, Build Version: 5
+Package: patchelf, Version: 0.18.0, Architecture: x86_64, Build Version: 1
+Package: pavucontrol, Version: 6.1, Architecture: x86_64, Build Version: 1
+Package: pcaudiolib, Version: 1.2, Architecture: x86_64, Build Version: 1
+Package: pciutils, Version: 3.13.0, Architecture: x86_64, Build Version: 1
+Package: pcmciautils, Version: 018, Architecture: x86_64, Build Version: 5
+Package: pcre, Version: 8.45, Architecture: x86_64, Build Version: 1
+Package: pcre2, Version: 10.44, Architecture: x86_64, Build Version: 1
+Package: perl, Version: 5.40.0, Architecture: x86_64, Build Version: 2
+Package: phonon, Version: 4.12.0, Architecture: x86_64, Build Version: 1
+Package: phonon-backend-gstreamer, Version: 4.10.0, Architecture: x86_64, Build Version: 3
+Package: phonon-backend-vlc, Version: 0.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: phonon-mpv-qt6, Version: 0.1.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: phonon-qt6, Version: 4.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: php, Version: 8.3.14, Architecture: x86_64, Build Version: 1
+Package: pidentd, Version: 3.0.19, Architecture: x86_64, Build Version: 7
+Package: pidgin, Version: 2.14.13, Architecture: x86_64, Build Version: 2
+Package: pilot-link, Version: 0.12.5, Architecture: x86_64, Build Version: 17
+Package: pim-data-exporter, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: pim-sieve-editor, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: pimcommon, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: pinentry, Version: 1.3.1, Architecture: x86_64, Build Version: 2
+Package: pipewire, Version: 1.2.7, Architecture: x86_64, Build Version: 1
+Package: pipewire-native-jack, Version: 0.3.44, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: pixman, Version: 0.44.2, Architecture: x86_64, Build Version: 1
+Package: pkg-config, Version: 0.29.2, Architecture: x86_64, Build Version: 5
+Package: pkgtools, Version: 15.1, Architecture: noarch, Build Version: 21
+Package: plasma-activities, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: plasma-activities-stats, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: plasma-browser-integration, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: plasma-camera, Version: 1.0_git20240819, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: plasma-desktop, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: plasma-dialer, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: plasma-disks, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: plasma-firewall, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: plasma-framework, Version: 5.116.0, Architecture: x86_64, Build Version: 1
+Package: plasma-framework5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: plasma-integration, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: plasma-mobile, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: plasma-nano, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: plasma-nm, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: plasma-pa, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: plasma-phonebook, Version: 24.02.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: plasma-sdk, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: plasma-settings, Version: 24.02.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: plasma-systemmonitor, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: plasma-thunderbolt, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: plasma-vault, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: plasma-wayland-protocols, Version: 1.14.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: plasma-welcome, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: plasma-workspace, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: plasma-workspace-wallpapers, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: plasma5support, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: plasmatube, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: plymouth-kcm, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: plzip, Version: 1.11, Architecture: x86_64, Build Version: 1
+Package: pmake, Version: 1.111, Architecture: x86_64, Build Version: 7
+Package: poke, Version: 4.2, Architecture: x86_64, Build Version: 1
+Package: polkit, Version: 125, Architecture: x86_64, Build Version: 1
+Package: polkit-gnome, Version: 0.105, Architecture: x86_64, Build Version: 4
+Package: polkit-kde-agent-1, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: polkit-qt-1, Version: 0.200.0, Architecture: x86_64, Build Version: 1
+Package: polkit-qt-1-qt6, Version: 0.200.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: popa3d, Version: 1.0.3, Architecture: x86_64, Build Version: 8
+Package: poppler, Version: 24.12.0, Architecture: x86_64, Build Version: 1
+Package: poppler-data, Version: 0.4.12, Architecture: noarch, Build Version: 1
+Package: popt, Version: 1.19, Architecture: x86_64, Build Version: 1
+Package: portaudio, Version: 19.7.0, Architecture: x86_64, Build Version: 2, Tag: SBo
+Package: postfix, Version: 3.9.1, Architecture: x86_64, Build Version: 1
+Package: postgresql, Version: 16.3, Architecture: x86_64, Build Version: 2cf
+Package: power-profiles-daemon, Version: 0.23, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: powerdevil, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: powertop, Version: 2.15, Architecture: x86_64, Build Version: 2
+Package: poxml, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: ppp, Version: 2.5.1, Architecture: x86_64, Build Version: 1
+Package: print-manager, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: prison, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: prison5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: procmail, Version: 3.24, Architecture: x86_64, Build Version: 2
+Package: procps-ng, Version: 4.0.4, Architecture: x86_64, Build Version: 2
+Package: proftpd, Version: 1.3.8c, Architecture: x86_64, Build Version: 1
+Package: projectM, Version: 4.1.2, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: protobuf, Version: 29.1, Architecture: x86_64, Build Version: 1
+Package: pssh, Version: 2.3.5, Architecture: x86_64, Build Version: 3
+Package: pulseaudio, Version: 17.0, Architecture: x86_64, Build Version: 5
+Package: pulseaudio-qt, Version: 1.6.1, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: purpose, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: purpose5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: pyatspi, Version: 2.46.0, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: pycairo, Version: 1.27.0, Architecture: x86_64, Build Version: 2
+Package: pycups, Version: 2.0.4, Architecture: x86_64, Build Version: 2
+Package: pycurl, Version: 7.45.3, Architecture: x86_64, Build Version: 3
+Package: pygdbmi, Version: 0.11.0.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: pygobject, Version: 2.28.7, Architecture: x86_64, Build Version: 10
+Package: pygobject3, Version: 3.50.0, Architecture: x86_64, Build Version: 2
+Package: pygtk, Version: 2.24.0, Architecture: x86_64, Build Version: 7
+Package: pyparsing, Version: 3.1.2, Architecture: x86_64, Build Version: 3
+Package: python-Jinja2, Version: 3.1.4, Architecture: x86_64, Build Version: 2
+Package: python-MarkupSafe, Version: 3.0.2, Architecture: x86_64, Build Version: 2
+Package: python-PyYAML, Version: 6.0.2, Architecture: x86_64, Build Version: 2
+Package: python-alabaster, Version: 1.0.0, Architecture: x86_64, Build Version: 2
+Package: python-appdirs, Version: 1.4.4, Architecture: x86_64, Build Version: 8
+Package: python-babel, Version: 2.16.0, Architecture: x86_64, Build Version: 2
+Package: python-build, Version: 1.2.2.post1, Architecture: x86_64, Build Version: 2
+Package: python-calver, Version: 2022.6.26, Architecture: x86_64, Build Version: 3
+Package: python-certifi, Version: 2024.8.30, Architecture: x86_64, Build Version: 2
+Package: python-cffi, Version: 1.17.1, Architecture: x86_64, Build Version: 2
+Package: python-chardet, Version: 5.2.0, Architecture: x86_64, Build Version: 3
+Package: python-charset-normalizer, Version: 3.4.0, Architecture: x86_64, Build Version: 2
+Package: python-distro, Version: 1.9.0, Architecture: x86_64, Build Version: 3
+Package: python-dnspython, Version: 2.7.0, Architecture: x86_64, Build Version: 2
+Package: python-docutils, Version: 0.21.2, Architecture: x86_64, Build Version: 2
+Package: python-doxypypy, Version: 0.8.8.7, Architecture: x86_64, Build Version: 3
+Package: python-doxyqml, Version: 0.5.3, Architecture: x86_64, Build Version: 3
+Package: python-editables, Version: 0.5, Architecture: x86_64, Build Version: 3
+Package: python-flit-core, Version: 3.10.1, Architecture: x86_64, Build Version: 2
+Package: python-future, Version: 1.0.0, Architecture: x86_64, Build Version: 3
+Package: python-glad2, Version: 2.0.8, Architecture: x86_64, Build Version: 2
+Package: python-hatch-vcs, Version: 0.4.0, Architecture: x86_64, Build Version: 2
+Package: python-hatchling, Version: 1.26.3, Architecture: x86_64, Build Version: 2
+Package: python-html5lib, Version: 1.1, Architecture: x86_64, Build Version: 3
+Package: python-idna, Version: 3.10, Architecture: x86_64, Build Version: 2
+Package: python-imagesize, Version: 1.4.1, Architecture: x86_64, Build Version: 3
+Package: python-importlib_metadata, Version: 8.5.0, Architecture: x86_64, Build Version: 2
+Package: python-installer, Version: 0.7.0, Architecture: x86_64, Build Version: 4
+Package: python-librivox, Version: 0.1, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: python-lxml, Version: 5.3.0, Architecture: x86_64, Build Version: 2
+Package: python-markdown, Version: 3.7, Architecture: x86_64, Build Version: 2
+Package: python-notify2, Version: 0.3.1, Architecture: x86_64, Build Version: 12
+Package: python-packaging, Version: 24.2, Architecture: x86_64, Build Version: 2
+Package: python-pathspec, Version: 0.12.1, Architecture: x86_64, Build Version: 3
+Package: python-pbr, Version: 6.1.0, Architecture: x86_64, Build Version: 2
+Package: python-pillow, Version: 11.0.0, Architecture: x86_64, Build Version: 2
+Package: python-pip, Version: 24.3.1, Architecture: x86_64, Build Version: 2
+Package: python-pluggy, Version: 1.5.0, Architecture: x86_64, Build Version: 2
+Package: python-ply, Version: 3.11, Architecture: x86_64, Build Version: 10
+Package: python-psutil, Version: 6.1.0, Architecture: x86_64, Build Version: 2
+Package: python-pycparser, Version: 2.22, Architecture: x86_64, Build Version: 2
+Package: python-pygments, Version: 2.18.0, Architecture: x86_64, Build Version: 2
+Package: python-pyproject-hooks, Version: 1.2.0, Architecture: x86_64, Build Version: 2
+Package: python-pysol_cards, Version: 0.18.0, Architecture: x86_64, Build Version: 2
+Package: python-random2, Version: 1.0.2, Architecture: x86_64, Build Version: 3
+Package: python-requests, Version: 2.32.3, Architecture: x86_64, Build Version: 2
+Package: python-sane, Version: 2.9.1, Architecture: x86_64, Build Version: 7
+Package: python-setuptools, Version: 75.6.0, Architecture: x86_64, Build Version: 2
+Package: python-setuptools_scm, Version: 8.1.0, Architecture: x86_64, Build Version: 2
+Package: python-six, Version: 1.17.0, Architecture: x86_64, Build Version: 1
+Package: python-smartypants, Version: 2.0.1, Architecture: x86_64, Build Version: 3
+Package: python-snowballstemmer, Version: 2.2.0, Architecture: x86_64, Build Version: 3
+Package: python-sphinx, Version: 8.1.3, Architecture: x86_64, Build Version: 2
+Package: python-sphinx_rtd_theme, Version: 3.0.2, Architecture: x86_64, Build Version: 2
+Package: python-tomli-w, Version: 1.1.0, Architecture: x86_64, Build Version: 2
+Package: python-trove-classifiers, Version: 2024.10.21.16, Architecture: x86_64, Build Version: 2
+Package: python-typogrify, Version: 2.0.7, Architecture: x86_64, Build Version: 3
+Package: python-urllib3, Version: 2.2.3, Architecture: x86_64, Build Version: 2
+Package: python-webencodings, Version: 0.5.1, Architecture: x86_64, Build Version: 3
+Package: python-wheel, Version: 0.45.1, Architecture: x86_64, Build Version: 1
+Package: python-zipp, Version: 3.21.0, Architecture: x86_64, Build Version: 2
+Package: python2, Version: 2.7.18, Architecture: x86_64, Build Version: 8
+Package: python2-pycairo, Version: 1.18.2, Architecture: x86_64, Build Version: 1
+Package: python3, Version: 3.12.8, Architecture: x86_64, Build Version: 1
+Package: python3-exiv2, Version: 0.12.0, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: python3-poetry-core, Version: 1.9.1, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: python3-pythondialog, Version: 3.5.3, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: python3-tomlkit, Version: 0.13.2, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: python3-watchdog, Version: 6.0.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: pyxdg, Version: 0.28, Architecture: x86_64, Build Version: 3
+Package: qca, Version: 2.3.9, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: qcoro, Version: 0.11.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: qmlkonsole, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: qpdf, Version: 11.9.1, Architecture: x86_64, Build Version: 1
+Package: qqc2-breeze-style, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: qqc2-desktop-style, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: qrca, Version: 3aa66ae91d8f0624d88d6de0e32ac46927023c8d, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: qrencode, Version: 4.1.1, Architecture: x86_64, Build Version: 3
+Package: qt-heif-image-plugin, Version: 0.3.4, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: qt5, Version: 5.15.16_20241121_32be1543, Architecture: x86_64, Build Version: 1
+Package: qt6, Version: 6.8.1_20241122_41d5d04f, Architecture: x86_64, Build Version: 1
+Package: qtkeychain, Version: 0.14.3, Architecture: x86_64, Build Version: 1
+Package: qtkeychain-qt6, Version: 0.14.3, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: quazip, Version: 1.4, Architecture: x86_64, Build Version: 1
+Package: quazip-qt6, Version: 1.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: quota, Version: 4.09, Architecture: x86_64, Build Version: 2
+Package: radeontool, Version: 1.6.3, Architecture: x86_64, Build Version: 4
+Package: rav1e, Version: 0.7.1, Architecture: x86_64, Build Version: 3, Tag: SBo
+Package: rcs, Version: 5.10.1, Architecture: x86_64, Build Version: 1
+Package: rdesktop, Version: 1.9.0, Architecture: x86_64, Build Version: 4
+Package: rdfind, Version: 1.6.0, Architecture: x86_64, Build Version: 1
+Package: rdist, Version: 6.1.5, Architecture: x86_64, Build Version: 5
+Package: re2c, Version: 4.0.2, Architecture: x86_64, Build Version: 1
+Package: readline, Version: 8.2.013, Architecture: x86_64, Build Version: 1
+Package: reflex, Version: 2.5.4.20240906, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: reiserfsprogs, Version: 3.6.27, Architecture: x86_64, Build Version: 5
+Package: rendercheck, Version: 1.6, Architecture: x86_64, Build Version: 1
+Package: rewise, Version: 0.3.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: rgb, Version: 1.1.0, Architecture: x86_64, Build Version: 1
+Package: rinutils, Version: 0.10.3, Architecture: x86_64, Build Version: 1
+Package: rkward, Version: 0.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: rocs, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: rp-pppoe, Version: 4.0, Architecture: x86_64, Build Version: 1
+Package: rpcbind, Version: 1.2.7, Architecture: x86_64, Build Version: 1
+Package: rpcsvc-proto, Version: 1.4.4, Architecture: x86_64, Build Version: 1
+Package: rpm, Version: 4.20.0, Architecture: x86_64, Build Version: 2
+Package: rpm2tgz, Version: 1.2.2, Architecture: x86_64, Build Version: 7
+Package: rsync, Version: 3.3.0, Architecture: x86_64, Build Version: 1
+Package: rtmpdump, Version: 20210219_f1b83c1, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: rttr, Version: 0.9.6, Architecture: x86_64, Build Version: 4
+Package: ruby, Version: 3.3.6, Architecture: x86_64, Build Version: 1
+Package: rubygem-asciidoctor, Version: 2.0.20, Architecture: x86_64, Build Version: 1
+Package: runc, Version: 1.1.13, Architecture: x86_64, Build Version: 1alien
+Package: ruqola, Version: 2.3.1, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: rust, Version: 1.83.0, Architecture: x86_64, Build Version: 1
+Package: rust-bindgen, Version: 0.70.1, Architecture: x86_64, Build Version: 1
+Package: rxvt-unicode, Version: 9.31, Architecture: x86_64, Build Version: 3
+Package: rzip, Version: 2.1, Architecture: x86_64, Build Version: 4
+Package: s-nail, Version: 14.9.25, Architecture: x86_64, Build Version: 1
+Package: samba, Version: 4.21.2, Architecture: x86_64, Build Version: 1
+Package: sane, Version: 1.3.1, Architecture: x86_64, Build Version: 1
+Package: sassc, Version: 3.6.2, Architecture: x86_64, Build Version: 1
+Package: sazanami-fonts-ttf, Version: 20040629, Architecture: noarch, Build Version: 5
+Package: sbc, Version: 2.0, Architecture: x86_64, Build Version: 1
+Package: sbopkg, Version: 0.38.2, Architecture: noarch, Build Version: 1, Tag: wsr
+Package: sboui, Version: 2.4, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: sc, Version: 7.16, Architecture: x86_64, Build Version: 11
+Package: sc-im, Version: 0.8.4, Architecture: x86_64, Build Version: 1
+Package: scdoc, Version: 1.11.3, Architecture: x86_64, Build Version: 1
+Package: schroedinger, Version: 1.0.11, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: scons, Version: 4.8.1, Architecture: x86_64, Build Version: 2
+Package: scour, Version: 0.38.2, Architecture: x86_64, Build Version: 5cf
+Package: screen, Version: 5.0.0, Architecture: x86_64, Build Version: 1
+Package: sddm, Version: 0.21.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: sddm-kcm, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: sdl, Version: 1.2.15, Architecture: x86_64, Build Version: 15
+Package: sdparm, Version: 1.12, Architecture: x86_64, Build Version: 3
+Package: seamonkey, Version: 2.53.19, Architecture: x86_64, Build Version: 1
+Package: sed, Version: 4.9, Architecture: x86_64, Build Version: 1
+Package: seejpeg, Version: 1.10, Architecture: x86_64, Build Version: 4
+Package: serf, Version: 1.3.10, Architecture: x86_64, Build Version: 1
+Package: sessreg, Version: 1.1.3, Architecture: x86_64, Build Version: 1
+Package: setxkbmap, Version: 1.3.4, Architecture: x86_64, Build Version: 1
+Package: seyon, Version: 2.20c, Architecture: x86_64, Build Version: 6
+Package: sg3_utils, Version: 1.48, Architecture: x86_64, Build Version: 1
+Package: shadow, Version: 4.16.0, Architecture: x86_64, Build Version: 2
+Package: shared-desktop-ontologies, Version: 0.11.0, Architecture: x86_64, Build Version: 4
+Package: shared-mime-info, Version: 2.4, Architecture: x86_64, Build Version: 1
+Package: sharutils, Version: 4.15.2, Architecture: x86_64, Build Version: 4
+Package: shellcheck-bin, Version: 0.10.0, Architecture: x86_64, Build Version: 1cf
+Package: showfont, Version: 1.0.6, Architecture: x86_64, Build Version: 1
+Package: sierrabreezeenhanced, Version: 2.0.1, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: signond, Version: 8.62_git20231124, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: sinhala_lklug-font-ttf, Version: 20060929, Architecture: noarch, Build Version: 5
+Package: sip, Version: 6.9.1, Architecture: x86_64, Build Version: 1
+Package: skanlite, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: skia-sharp, Version: 0.0.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: skkdic, Version: 20210919, Architecture: noarch, Build Version: 1
+Package: skladnik, Version: 0.5.2, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: sl, Version: 5.05, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: slackpkg, Version: 15.0.10, Architecture: noarch, Build Version: 4
+Package: slacktrack, Version: 2.24, Architecture: x86_64, Build Version: 1
+Package: slang, Version: 2.3.3, Architecture: x86_64, Build Version: 1
+Package: slang1, Version: 1.4.9, Architecture: x86_64, Build Version: 4
+Package: slpkg, Version: 5.1.5, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: slrn, Version: 1.0.3a, Architecture: x86_64, Build Version: 4
+Package: smartmontools, Version: 7.4, Architecture: x86_64, Build Version: 1
+Package: smplayer, Version: 24.5.0, Architecture: x86_64, Build Version: 1cf
+Package: smplayer-skins, Version: 20.11.0, Architecture: noarch, Build Version: 1cf
+Package: smplayer-themes, Version: 20.11.0, Architecture: noarch, Build Version: 1cf
+Package: smproxy, Version: 1.0.7, Architecture: x86_64, Build Version: 1
+Package: snownews, Version: 1.11, Architecture: x86_64, Build Version: 1
+Package: soapy-sdr, Version: 0.8.1, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: soapy-sdr-remote, Version: 0.5.2, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: socat, Version: 1.8.0.2, Architecture: x86_64, Build Version: 1
+Package: sof-firmware, Version: 2024.09.2, Architecture: noarch, Build Version: 1
+Package: solid, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: solid5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: soma, Version: 3.3.7, Architecture: noarch, Build Version: 3
+Package: sonnet, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: sonnet5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: sound-theme-freedesktop, Version: 0.8, Architecture: noarch, Build Version: 4
+Package: sox, Version: 14.4.2, Architecture: x86_64, Build Version: 9
+Package: soxr, Version: 0.1.3, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: spacebar, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: spandsp, Version: 0.0.6_0d2e6a, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: spectacle, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: speech-dispatcher, Version: 0.11.5, Architecture: x86_64, Build Version: 3
+Package: speex, Version: 1.2.1, Architecture: x86_64, Build Version: 1
+Package: speexdsp, Version: 1.2.1, Architecture: x86_64, Build Version: 1
+Package: spirv-llvm-translator, Version: 19.1.2, Architecture: x86_64, Build Version: 1
+Package: splitvt, Version: 1.6.6, Architecture: x86_64, Build Version: 5
+Package: sqlite, Version: 3.46.1, Architecture: x86_64, Build Version: 2
+Package: squashfs-tools, Version: 4.6.1, Architecture: x86_64, Build Version: 1
+Package: srt, Version: 1.5.3, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: sshfs, Version: 3.7.3, Architecture: x86_64, Build Version: 1
+Package: ssr, Version: 0.4.4, Architecture: x86_64, Build Version: 3
+Package: startup-notification, Version: 0.12, Architecture: x86_64, Build Version: 5
+Package: step, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: stow, Version: 2.4.1, Architecture: x86_64, Build Version: 1
+Package: strace, Version: 6.12, Architecture: x86_64, Build Version: 1
+Package: stunnel, Version: 5.73, Architecture: x86_64, Build Version: 1
+Package: subtitlecomposer, Version: 0.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: subversion, Version: 1.14.5, Architecture: x86_64, Build Version: 1
+Package: sudo, Version: 1.9.16p2, Architecture: x86_64, Build Version: 1
+Package: sun, Version: 1.6.3, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: svgalib, Version: 1.9.25, Architecture: x86_64, Build Version: 7
+Package: svgpart, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: svt-av1, Version: 2.3.0, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: sweeper, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: swig, Version: 4.3.0, Architecture: x86_64, Build Version: 1
+Package: symboleditor, Version: 2.1.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: syndication, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: syndication5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: syntax-highlighting, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: syntax-highlighting5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: sysfsutils, Version: 2.1.1, Architecture: x86_64, Build Version: 1
+Package: sysklogd, Version: 2.6.2, Architecture: x86_64, Build Version: 1
+Package: syslinux, Version: 4.07, Architecture: x86_64, Build Version: 4
+Package: sysprof, Version: 46.0, Architecture: x86_64, Build Version: 1, Tag: gfs
+Package: sysstat, Version: 12.7.6, Architecture: x86_64, Build Version: 1
+Package: system-config-printer, Version: 1.5.18, Architecture: x86_64, Build Version: 3
+Package: systemsettings, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: sysvinit, Version: 3.11, Architecture: x86_64, Build Version: 1
+Package: sysvinit-functions, Version: 8.53, Architecture: x86_64, Build Version: 6
+Package: sysvinit-scripts, Version: 15.1, Architecture: noarch, Build Version: 23
+Package: t1lib, Version: 5.1.2, Architecture: x86_64, Build Version: 6
+Package: taglib, Version: 1.13.1, Architecture: x86_64, Build Version: 1
+Package: talloc, Version: 2.4.2, Architecture: x86_64, Build Version: 3
+Package: tango-icon-theme, Version: 0.8.90, Architecture: noarch, Build Version: 6
+Package: tango-icon-theme-extras, Version: 0.1.0, Architecture: noarch, Build Version: 4
+Package: tar, Version: 1.35, Architecture: x86_64, Build Version: 1
+Package: tcl, Version: 8.6.15, Architecture: x86_64, Build Version: 2
+Package: tclx, Version: 8.6.3, Architecture: x86_64, Build Version: 1
+Package: tcp_wrappers, Version: 7.6, Architecture: x86_64, Build Version: 7
+Package: tcpdump, Version: 4.99.5, Architecture: x86_64, Build Version: 1
+Package: tcsh, Version: 6.24.14, Architecture: x86_64, Build Version: 1
+Package: tdb, Version: 1.4.12, Architecture: x86_64, Build Version: 2
+Package: telepathy-qt, Version: 0.9.8, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: tellico, Version: 4.0.1, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: telly-skout, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: telnet, Version: 0.17, Architecture: x86_64, Build Version: 7
+Package: terminus-font, Version: 4.49.1, Architecture: noarch, Build Version: 3
+Package: tevent, Version: 0.16.1, Architecture: x86_64, Build Version: 3
+Package: texinfo, Version: 7.1.1, Architecture: x86_64, Build Version: 1
+Package: texlive, Version: 2024.240409, Architecture: x86_64, Build Version: 3
+Package: tftp-hpa, Version: 5.2, Architecture: x86_64, Build Version: 9
+Package: threadweaver, Version: 6.8.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: threadweaver5, Version: 5.116.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: thunar, Version: 4.18.11, Architecture: x86_64, Build Version: 1
+Package: thunar-volman, Version: 4.18.0, Architecture: x86_64, Build Version: 1
+Package: tibmachuni-font-ttf, Version: 1.901b, Architecture: noarch, Build Version: 5
+Package: tidy-html5, Version: 5.8.0, Architecture: x86_64, Build Version: 2
+Package: tidyp, Version: 1.04, Architecture: x86_64, Build Version: 2, Tag: SBo
+Package: time, Version: 1.9, Architecture: x86_64, Build Version: 4
+Package: tin, Version: 2.6.3, Architecture: x86_64, Build Version: 2
+Package: tix, Version: 8.4.3, Architecture: x86_64, Build Version: 6
+Package: tk, Version: 8.6.15, Architecture: x86_64, Build Version: 1
+Package: tmux, Version: 3.5a, Architecture: x86_64, Build Version: 1
+Package: tokodon, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: totem-pl-parser, Version: 3.26.6, Architecture: x86_64, Build Version: 4, Tag: gfs
+Package: traceroute, Version: 2.1.6, Architecture: x86_64, Build Version: 1
+Package: transset, Version: 1.0.4, Architecture: x86_64, Build Version: 1
+Package: tree, Version: 2.1.1, Architecture: x86_64, Build Version: 1
+Package: tree-sitter, Version: 0.24.4, Architecture: x86_64, Build Version: 1
+Package: ttf-indic-fonts, Version: 0.5.14, Architecture: noarch, Build Version: 6
+Package: ttf-tlwg, Version: 0.7.3, Architecture: noarch, Build Version: 2
+Package: tumbler, Version: 4.18.2, Architecture: x86_64, Build Version: 1
+Package: turbo-attack, Version: 0.1.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: turbo-scanner, Version: 0.1.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: twm, Version: 1.0.12, Architecture: x86_64, Build Version: 1
+Package: twolame, Version: 0.4.0, Architecture: x86_64, Build Version: 1cf
+Package: udisks2, Version: 2.10.1, Architecture: x86_64, Build Version: 1
+Package: ulogd, Version: 2.0.8, Architecture: x86_64, Build Version: 1
+Package: unarj, Version: 265, Architecture: x86_64, Build Version: 4
+Package: undervolt, Version: 0.4.0, Architecture: x86_64, Build Version: 2
+Package: unicode-ucd, Version: 16.0.0, Architecture: noarch, Build Version: 1
+Package: unifdef, Version: 2.12, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: upower, Version: 1.90.6, Architecture: x86_64, Build Version: 1
+Package: urw-core35-fonts-otf, Version: 20170801_91edd6e_git, Architecture: noarch, Build Version: 4
+Package: usb_modeswitch, Version: 2.6.1, Architecture: x86_64, Build Version: 3
+Package: usbmuxd, Version: 20240916_0b1b233, Architecture: x86_64, Build Version: 1
+Package: usbutils, Version: 018, Architecture: x86_64, Build Version: 1
+Package: userspace-rcu, Version: 0.14.1, Architecture: x86_64, Build Version: 1
+Package: utempter, Version: 1.2.1, Architecture: x86_64, Build Version: 1
+Package: utf8proc, Version: 2.9.0, Architecture: x86_64, Build Version: 1
+Package: util-linux, Version: 2.40.2, Architecture: x86_64, Build Version: 2
+Package: util-macros, Version: 1.20.2, Architecture: noarch, Build Version: 1
+Package: uucp, Version: 1.07, Architecture: x86_64, Build Version: 7
+Package: v4l-utils, Version: 1.28.1, Architecture: x86_64, Build Version: 1
+Package: v4l2loopback, Version: 0.13.2_6.12.1, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: vail, Version: a6fbad92_git, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: vakzination, Version: 23.01.0_git20231212, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: vala, Version: 0.56.17, Architecture: x86_64, Build Version: 1
+Package: valgrind, Version: 3.24.0, Architecture: x86_64, Build Version: 1
+Package: vbetool, Version: 1.2.2, Architecture: x86_64, Build Version: 4
+Package: vcdimager, Version: 2.0.1, Architecture: x86_64, Build Version: 2, Tag: SBo
+Package: vid.stab, Version: 1.1.1, Architecture: x86_64, Build Version: 1
+Package: viewres, Version: 1.0.7, Architecture: x86_64, Build Version: 1
+Package: vim, Version: 9.1.0915, Architecture: x86_64, Build Version: 1
+Package: vim-gvim, Version: 9.1.0915, Architecture: x86_64, Build Version: 1
+Package: vlan, Version: 1.9, Architecture: x86_64, Build Version: 5
+Package: vlc, Version: 3.0.21, Architecture: x86_64, Build Version: 1alien
+Package: volume_key, Version: 0.3.12, Architecture: x86_64, Build Version: 9
+Package: vorbis-tools, Version: 1.4.2, Architecture: x86_64, Build Version: 4
+Package: vscode-bin, Version: 1.95.3, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: vsftpd, Version: 3.0.5, Architecture: x86_64, Build Version: 3
+Package: vte, Version: 0.78.2, Architecture: x86_64, Build Version: 2
+Package: vtracer, Version: 0.6.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: vulkan-sdk, Version: 1.3.290.0, Architecture: x86_64, Build Version: 2
+Package: wacomtablet, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: washipad, Version: 54ee2fba_git, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: wavpack, Version: 5.7.0, Architecture: x86_64, Build Version: 1
+Package: wayland, Version: 1.23.1, Architecture: x86_64, Build Version: 1
+Package: wayland-protocols, Version: 1.38, Architecture: noarch, Build Version: 1
+Package: wayland-utils, Version: 1.2.0, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: wcslib, Version: 8.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: webkit2gtk4.1, Version: 2.42.2, Architecture: x86_64, Build Version: 1, Tag: gfs
+Package: webkit2gtk6.0, Version: 2.46.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: wget, Version: 1.25.0, Architecture: x86_64, Build Version: 1
+Package: wget2, Version: 2.2.0, Architecture: x86_64, Build Version: 1
+Package: when-changed, Version: dca0737_git, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: which, Version: 2.21, Architecture: x86_64, Build Version: 4
+Package: whois, Version: 5.5.23, Architecture: x86_64, Build Version: 1
+Package: windowmaker, Version: 0.96.0, Architecture: x86_64, Build Version: 2
+Package: wireguard-tools, Version: 1.0.20210914, Architecture: x86_64, Build Version: 1
+Package: wireless-regdb, Version: 2024.10.07, Architecture: x86_64, Build Version: 1
+Package: wireless_tools, Version: 30.pre9, Architecture: x86_64, Build Version: 5
+Package: wireplumber, Version: 0.5.7, Architecture: x86_64, Build Version: 1
+Package: woff2, Version: 20231106_0f4d304, Architecture: x86_64, Build Version: 2
+Package: wolfssl, Version: 5.7.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: wpa_supplicant, Version: 2.11, Architecture: x86_64, Build Version: 2
+Package: wpebackend-fdo, Version: 1.14.2, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: wqy-zenhei-font-ttf, Version: 0.8.38_1, Architecture: noarch, Build Version: 10
+Package: wsdd2, Version: 1.8.7, Architecture: x86_64, Build Version: 1
+Package: x11-skel, Version: 7.7, Architecture: x86_64, Build Version: 9
+Package: x11-ssh-askpass, Version: 1.2.4.1, Architecture: x86_64, Build Version: 5
+Package: x11perf, Version: 1.7.0, Architecture: x86_64, Build Version: 1
+Package: x264, Version: git_20210613_5db6aa6c, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: x265, Version: 3.6, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: x3270, Version: 4.3ga9, Architecture: x86_64, Build Version: 1
+Package: xaos, Version: 4.3.3, Architecture: x86_64, Build Version: 1
+Package: xapian-core, Version: 1.4.27, Architecture: x86_64, Build Version: 1
+Package: xauth, Version: 1.1.3, Architecture: x86_64, Build Version: 1
+Package: xbacklight, Version: 1.2.4, Architecture: x86_64, Build Version: 1
+Package: xbiff, Version: 1.0.5, Architecture: x86_64, Build Version: 1
+Package: xbitmaps, Version: 1.1.3, Architecture: x86_64, Build Version: 1
+Package: xcalc, Version: 1.1.2, Architecture: x86_64, Build Version: 1
+Package: xcb-imdkit, Version: 1.0.9, Architecture: x86_64, Build Version: 1
+Package: xcb-proto, Version: 1.17.0, Architecture: x86_64, Build Version: 2
+Package: xcb-util, Version: 0.4.1, Architecture: x86_64, Build Version: 1
+Package: xcb-util-cursor, Version: 0.1.5, Architecture: x86_64, Build Version: 1
+Package: xcb-util-errors, Version: 1.0.1, Architecture: x86_64, Build Version: 1
+Package: xcb-util-image, Version: 0.4.1, Architecture: x86_64, Build Version: 1
+Package: xcb-util-keysyms, Version: 0.4.1, Architecture: x86_64, Build Version: 1
+Package: xcb-util-renderutil, Version: 0.3.10, Architecture: x86_64, Build Version: 1
+Package: xcb-util-wm, Version: 0.4.2, Architecture: x86_64, Build Version: 1
+Package: xclipboard, Version: 1.1.5, Architecture: x86_64, Build Version: 1
+Package: xclock, Version: 1.1.1, Architecture: x86_64, Build Version: 1
+Package: xcm, Version: 0.5.4, Architecture: x86_64, Build Version: 4
+Package: xcmsdb, Version: 1.0.7, Architecture: x86_64, Build Version: 1
+Package: xcompmgr, Version: 1.1.10, Architecture: x86_64, Build Version: 1
+Package: xconsole, Version: 1.1.0, Architecture: x86_64, Build Version: 1
+Package: xcursor-themes, Version: 1.0.7, Architecture: noarch, Build Version: 1
+Package: xcursorgen, Version: 1.0.8, Architecture: x86_64, Build Version: 1
+Package: xdbedizzy, Version: 1.1.0, Architecture: x86_64, Build Version: 5
+Package: xdg-dbus-proxy, Version: 0.1.6, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: xdg-desktop-portal, Version: 1.18.4, Architecture: x86_64, Build Version: 1
+Package: xdg-desktop-portal-gtk, Version: 1.15.1, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: xdg-desktop-portal-kde, Version: 6.2.4, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: xdg-user-dirs, Version: 0.18, Architecture: x86_64, Build Version: 1
+Package: xdg-utils, Version: 1.2.1, Architecture: noarch, Build Version: 1
+Package: xditview, Version: 1.0.7, Architecture: x86_64, Build Version: 1
+Package: xdm, Version: 1.1.16, Architecture: x86_64, Build Version: 2
+Package: xdpyinfo, Version: 1.3.4, Architecture: x86_64, Build Version: 1
+Package: xdriinfo, Version: 1.0.7, Architecture: x86_64, Build Version: 1
+Package: xedit, Version: 1.2.4, Architecture: x86_64, Build Version: 1
+Package: xev, Version: 1.2.6, Architecture: x86_64, Build Version: 1
+Package: xeyes, Version: 1.3.0, Architecture: x86_64, Build Version: 1
+Package: xf86-input-evdev, Version: 2.11.0, Architecture: x86_64, Build Version: 1
+Package: xf86-input-libinput, Version: 1.5.0, Architecture: x86_64, Build Version: 1
+Package: xf86-input-synaptics, Version: 1.9.2, Architecture: x86_64, Build Version: 1
+Package: xf86-input-vmmouse, Version: 13.2.0, Architecture: x86_64, Build Version: 1
+Package: xf86-input-wacom, Version: 1.2.3, Architecture: x86_64, Build Version: 1
+Package: xf86-video-amdgpu, Version: 23.0.0, Architecture: x86_64, Build Version: 1
+Package: xf86-video-ati, Version: 22.0.0, Architecture: x86_64, Build Version: 1
+Package: xf86-video-dummy, Version: 0.4.1, Architecture: x86_64, Build Version: 1
+Package: xf86-video-intel, Version: 20230201_b74b67f0, Architecture: x86_64, Build Version: 1
+Package: xf86-video-mach64, Version: 6.10.0, Architecture: x86_64, Build Version: 1
+Package: xf86-video-mga, Version: 2.1.0, Architecture: x86_64, Build Version: 1
+Package: xf86-video-neomagic, Version: 1.3.1, Architecture: x86_64, Build Version: 1
+Package: xf86-video-nouveau, Version: 1.0.18, Architecture: x86_64, Build Version: 1
+Package: xf86-video-openchrome, Version: 0.6.0, Architecture: x86_64, Build Version: 6
+Package: xf86-video-r128, Version: 6.13.0, Architecture: x86_64, Build Version: 1
+Package: xf86-video-s3virge, Version: 1.11.1, Architecture: x86_64, Build Version: 1
+Package: xf86-video-savage, Version: 2.4.1, Architecture: x86_64, Build Version: 1
+Package: xf86-video-trident, Version: 1.4.0, Architecture: x86_64, Build Version: 1
+Package: xf86-video-vesa, Version: 2.6.0, Architecture: x86_64, Build Version: 1
+Package: xf86-video-vmware, Version: 13.4.0, Architecture: x86_64, Build Version: 1
+Package: xf86dga, Version: 1.0.3, Architecture: x86_64, Build Version: 5
+Package: xfce4-appfinder, Version: 4.18.1, Architecture: x86_64, Build Version: 1
+Package: xfce4-clipman-plugin, Version: 1.6.6, Architecture: x86_64, Build Version: 1
+Package: xfce4-dev-tools, Version: 4.18.1, Architecture: x86_64, Build Version: 1
+Package: xfce4-notifyd, Version: 0.9.6, Architecture: x86_64, Build Version: 1
+Package: xfce4-panel, Version: 4.18.6, Architecture: x86_64, Build Version: 1
+Package: xfce4-panel-profiles, Version: 1.0.14, Architecture: x86_64, Build Version: 1
+Package: xfce4-power-manager, Version: 4.18.4, Architecture: x86_64, Build Version: 1
+Package: xfce4-pulseaudio-plugin, Version: 0.4.9, Architecture: x86_64, Build Version: 1
+Package: xfce4-screensaver, Version: 4.18.3, Architecture: x86_64, Build Version: 2
+Package: xfce4-screenshooter, Version: 1.11.1, Architecture: x86_64, Build Version: 1
+Package: xfce4-session, Version: 4.18.4, Architecture: x86_64, Build Version: 1
+Package: xfce4-settings, Version: 4.18.6, Architecture: x86_64, Build Version: 1
+Package: xfce4-systemload-plugin, Version: 1.3.2, Architecture: x86_64, Build Version: 1
+Package: xfce4-taskmanager, Version: 1.5.7, Architecture: x86_64, Build Version: 1
+Package: xfce4-terminal, Version: 1.1.3, Architecture: x86_64, Build Version: 1
+Package: xfce4-weather-plugin, Version: 0.11.3, Architecture: x86_64, Build Version: 1
+Package: xfce4-whiskermenu-plugin, Version: 2.8.3, Architecture: x86_64, Build Version: 1
+Package: xfce4-xkb-plugin, Version: 0.8.3, Architecture: x86_64, Build Version: 1
+Package: xfconf, Version: 4.18.3, Architecture: x86_64, Build Version: 1
+Package: xfd, Version: 1.1.4, Architecture: x86_64, Build Version: 1
+Package: xfdesktop, Version: 4.18.1, Architecture: x86_64, Build Version: 1
+Package: xfig, Version: 3.2.9, Architecture: x86_64, Build Version: 2
+Package: xfontsel, Version: 1.1.1, Architecture: x86_64, Build Version: 1
+Package: xfs, Version: 1.2.2, Architecture: x86_64, Build Version: 1
+Package: xfsdump, Version: 3.2.0, Architecture: x86_64, Build Version: 1
+Package: xfsinfo, Version: 1.0.7, Architecture: x86_64, Build Version: 1
+Package: xfsprogs, Version: 6.12.0, Architecture: x86_64, Build Version: 1
+Package: xfwm4, Version: 4.18.0, Architecture: x86_64, Build Version: 1
+Package: xgames, Version: 0.3, Architecture: x86_64, Build Version: 8
+Package: xgamma, Version: 1.0.7, Architecture: x86_64, Build Version: 1
+Package: xgc, Version: 1.0.6, Architecture: x86_64, Build Version: 1
+Package: xhost, Version: 1.0.9, Architecture: x86_64, Build Version: 1
+Package: xine-lib, Version: 1.2.13, Architecture: x86_64, Build Version: 10
+Package: xine-ui, Version: 0.99.14, Architecture: x86_64, Build Version: 3
+Package: xinit, Version: 1.4.2, Architecture: x86_64, Build Version: 2
+Package: xinput, Version: 1.6.4, Architecture: x86_64, Build Version: 1
+Package: xinput_calibrator, Version: 0.8.0, Architecture: x86_64, Build Version: 1
+Package: xisxwayland, Version: 2, Architecture: x86_64, Build Version: 1
+Package: xkbcomp, Version: 1.4.7, Architecture: x86_64, Build Version: 1
+Package: xkbevd, Version: 1.1.6, Architecture: x86_64, Build Version: 1
+Package: xkbprint, Version: 1.0.7, Architecture: x86_64, Build Version: 1
+Package: xkbutils, Version: 1.0.6, Architecture: x86_64, Build Version: 1
+Package: xkeyboard-config, Version: 2.43, Architecture: noarch, Build Version: 1
+Package: xkill, Version: 1.0.6, Architecture: x86_64, Build Version: 1
+Package: xload, Version: 1.2.0, Architecture: x86_64, Build Version: 1
+Package: xlockmore, Version: 5.81, Architecture: x86_64, Build Version: 1
+Package: xlogo, Version: 1.0.7, Architecture: x86_64, Build Version: 1
+Package: xlsatoms, Version: 1.1.4, Architecture: x86_64, Build Version: 1
+Package: xlsclients, Version: 1.1.5, Architecture: x86_64, Build Version: 1
+Package: xlsfonts, Version: 1.0.8, Architecture: x86_64, Build Version: 1
+Package: xmag, Version: 1.0.8, Architecture: x86_64, Build Version: 1
+Package: xman, Version: 1.2.0, Architecture: x86_64, Build Version: 1
+Package: xmessage, Version: 1.0.7, Architecture: x86_64, Build Version: 1
+Package: xmh, Version: 1.0.5, Architecture: x86_64, Build Version: 1
+Package: xmltoman, Version: 0.6, Architecture: x86_64, Build Version: 1
+Package: xmms, Version: 1.2.11, Architecture: x86_64, Build Version: 8
+Package: xmodmap, Version: 1.0.11, Architecture: x86_64, Build Version: 1
+Package: xmore, Version: 1.0.4, Architecture: x86_64, Build Version: 1
+Package: xorg-cf-files, Version: 1.0.8, Architecture: x86_64, Build Version: 1
+Package: xorg-docs, Version: 1.7.3, Architecture: noarch, Build Version: 1
+Package: xorg-server, Version: 21.1.14, Architecture: x86_64, Build Version: 1
+Package: xorg-server-xephyr, Version: 21.1.14, Architecture: x86_64, Build Version: 1
+Package: xorg-server-xnest, Version: 21.1.14, Architecture: x86_64, Build Version: 1
+Package: xorg-server-xvfb, Version: 21.1.14, Architecture: x86_64, Build Version: 1
+Package: xorg-server-xwayland, Version: 24.1.4, Architecture: x86_64, Build Version: 1
+Package: xorg-sgml-doctools, Version: 1.12.1, Architecture: x86_64, Build Version: 1
+Package: xorgproto, Version: 2024.1, Architecture: x86_64, Build Version: 1
+Package: xorriso, Version: 1.5.6.pl02, Architecture: x86_64, Build Version: 1
+Package: xpaint, Version: 3.1.4, Architecture: x86_64, Build Version: 2
+Package: xpdf, Version: 4.05, Architecture: x86_64, Build Version: 1
+Package: xpr, Version: 1.2.0, Architecture: x86_64, Build Version: 1
+Package: xprop, Version: 1.2.8, Architecture: x86_64, Build Version: 1
+Package: xrandr, Version: 1.5.3, Architecture: x86_64, Build Version: 1
+Package: xrdb, Version: 1.2.2, Architecture: x86_64, Build Version: 1
+Package: xrefresh, Version: 1.1.0, Architecture: x86_64, Build Version: 1
+Package: xsane, Version: 0.999, Architecture: x86_64, Build Version: 6
+Package: xscope, Version: 1.4.4, Architecture: x86_64, Build Version: 1
+Package: xscreensaver, Version: 6.09, Architecture: x86_64, Build Version: 2
+Package: xset, Version: 1.2.5, Architecture: x86_64, Build Version: 1
+Package: xsetroot, Version: 1.1.3, Architecture: x86_64, Build Version: 1
+Package: xsm, Version: 1.0.6, Architecture: x86_64, Build Version: 1
+Package: xsnow, Version: 3.7.9, Architecture: x86_64, Build Version: 2
+Package: xstdcmap, Version: 1.0.5, Architecture: x86_64, Build Version: 1
+Package: xterm, Version: 396, Architecture: x86_64, Build Version: 1
+Package: xtrans, Version: 1.5.2, Architecture: noarch, Build Version: 1
+Package: xvfb-run, Version: 21.1.11, Architecture: noarch, Build Version: 1, Tag: gfs
+Package: xvidcore, Version: 1.3.7, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: xvidtune, Version: 1.0.4, Architecture: x86_64, Build Version: 1
+Package: xvinfo, Version: 1.1.5, Architecture: x86_64, Build Version: 1
+Package: xwaylandvideobridge, Version: 0.4.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: xwd, Version: 1.0.9, Architecture: x86_64, Build Version: 1
+Package: xwininfo, Version: 1.1.6, Architecture: x86_64, Build Version: 1
+Package: xwud, Version: 1.0.7, Architecture: x86_64, Build Version: 1
+Package: xxHash, Version: 0.8.2, Architecture: x86_64, Build Version: 1
+Package: xz, Version: 5.6.3, Architecture: x86_64, Build Version: 1
+Package: yakuake, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: yasm, Version: 1.3.0, Architecture: x86_64, Build Version: 4
+Package: yptools, Version: 4.2.3, Architecture: x86_64, Build Version: 6
+Package: yq, Version: 4.44.2, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: yt-dlp, Version: 2024.12.03, Architecture: x86_64, Build Version: 1, Tag: KDE6
+Package: ytalk, Version: 3.3.0, Architecture: x86_64, Build Version: 7
+Package: zanshin, Version: 24.12.0, Architecture: x86_64, Build Version: 1, Tag: rtz
+Package: zd1211-firmware, Version: 1.5, Architecture: fw, Build Version: 4
+Package: zerofree, Version: 1.1.1, Architecture: x86_64, Build Version: 3
+Package: zita-resampler, Version: 1.11.2, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: zlib, Version: 1.3.1, Architecture: x86_64, Build Version: 1
+Package: zoo, Version: 2.10_28, Architecture: x86_64, Build Version: 1
+Package: zsh, Version: 5.9, Architecture: x86_64, Build Version: 1
+Package: zstd, Version: 1.5.6, Architecture: x86_64, Build Version: 1
+Package: zug, Version: 0.1.1, Architecture: x86_64, Build Version: 1
+Package: zulu-openjdk17, Version: 17.0.13, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: zulu-openjdk8, Version: 8.0.432, Architecture: x86_64, Build Version: 1, Tag: SBo
+Package: zvbi, Version: 0.2.35, Architecture: x86_64, Build Version: 3, Tag: SBo
+Package: zxing-cpp, Version: 2.2.1, Architecture: x86_64, Build Version: 1
+Package: Martin Abente Lahaye, Version: 2.3.0, Architecture: x86_64, Build Version: 1, Tag: flathub
+Package: VideoLAN et al., Version: 3.0.21, Architecture: x86_64, Build Version: 1, Tag: flathub

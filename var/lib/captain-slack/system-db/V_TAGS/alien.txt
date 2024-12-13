@@ -1,0 +1,10 @@
+containerd=_alien
+docker=_alien
+docker-compose=_alien
+gme=_alien
+gst-plugins-bad0=_alien
+gst-plugins-ffmpeg0=_alien
+libreoffice=_alien
+openjdk17=_alien
+runc=_alien
+vlc=_alien

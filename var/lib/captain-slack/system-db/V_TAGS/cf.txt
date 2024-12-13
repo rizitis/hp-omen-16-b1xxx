@@ -1,0 +1,17 @@
+chromaprint=_cf
+faac=_cf
+gst-plugins-ugly=_cf
+gstreamermm=_cf
+jpegoptim=_cf
+libayatana-appindicator=_cf
+libayatana-indicator=_cf
+libupnp=_cf
+mm-common=_cf
+oxipng=_cf
+postgresql=_cf
+scour=_cf
+shellcheck-bin=_cf
+smplayer=_cf
+smplayer-skins=_cf
+smplayer-themes=_cf
+twolame=_cf

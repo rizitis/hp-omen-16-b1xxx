@@ -1,0 +1,17 @@
+AppStream
+clutter
+colord-gtk
+gnome-desktop
+gnome-software
+grilo
+ibus-gtk4
+libdex
+libnma-gtk4
+liboauth
+libpeas
+libportal
+malcontent
+sysprof
+totem-pl-parser
+webkit2gtk4.1
+xvfb-run
