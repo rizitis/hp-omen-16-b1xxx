@@ -503,7 +503,7 @@ function __setprompt
     fi
 
     # Kernel and Date/Time
-    PS1+="\[${LIGHTGREEN}\]$(krnl)"
+    PS1+="\[${LIGHTGREEN}\]$(krnl) ☘️P.A.O ☘️"
     PS1+="\[${DARKGRAY}\](\[${CYAN}\]$(date +%a) $(date +%b-'%-m')"
     PS1+="${BLUE} $(date +'%-I':%M:%S%P)\[${DARKGRAY}\])-"
 
