@@ -291,17 +291,24 @@ extract () {
 			case $archive in
 				*.tar.bz2)   tar xvjf $archive    ;;
 				*.tar.gz)    tar xvzf $archive    ;;
-				*.tar.xz)    tar xvJf $1    ;;
+				*.tar.xz)    tar xvJf $archive    ;;
+				*.tar.lz4)   tar --use-compress-program=lz4 -xvf $archive ;;
 				*.bz2)       bunzip2 $archive     ;;
 				*.rar)       rar x $archive       ;;
 				*.gz)        gunzip $archive      ;;
 				*.tar)       tar xvf $archive     ;;
 				*.tbz2)      tar xvjf $archive    ;;
 				*.tgz)       tar xvzf $archive    ;;
+				*.txz)       tar xvzf $archive    ;;
+				*.tlz)       tar xvzf $archive    ;;
 				*.zip)       unzip $archive       ;;
 				*.Z)         uncompress $archive  ;;
 				*.7z)        7z x $archive        ;;
-                                *.rpm)       bsdtar -xvf $archive ;;
+                *.rpm)       bsdtar -xvf $archive ;;
+                *.snap)      unsquashfs -d $archive ;;
+                *.AppImage)   chmod +x $archive ; ./$archive  --appimage-extract ;;
+                *.pkg.tar.zst) tar --use-compress-program=unzstd -xf $archive ;;
+                *.deb)       ar x $archive ;;
 				*)           echo "don't know how to extract '$archive'..." ;;
 			esac
 		else
