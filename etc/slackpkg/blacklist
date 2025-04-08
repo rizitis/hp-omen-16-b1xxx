@@ -38,11 +38,15 @@
 #kernel-source
 #
 # This one will blacklist all SBo packages:
-[0-9]+_SBo
+#[0-9]+_SBo
 elilo
-[0-9]+_rtz
+#[0-9]+_rtz
 sbopkg
 [0-9]+cf
+[0-9]+_KDE6
 [0-9]+alien
 kde/
-gimp
+fcitx5-qt
+fcitx5
+sddm
+slackpkg

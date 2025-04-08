@@ -18,7 +18,7 @@ KERNEL=/boot/vmlinuz-generic
 # In addition to the initrd with a name like initrd-6.11.6.img,
 # should we make a compatibility symlink such as initrd-generic.img?
 # GRUB doesn't require this, but lilo and elilo might.
-GENINITRD_NAMED_SYMLINK=true
+GENINITRD_NAMED_SYMLINK=false
 
 # In addition to the initrd with a name like initrd-6.11.6.img,
 # should we make a compatibility symlink named initrd.gz?
@@ -40,7 +40,13 @@ AUTOGENERATE_INITRD=true
 
 # Should we automatically remove "orphaned" initrds, i.e. any initrd that
 # does not have a matching kernel version in /boot?
-AUTO_REMOVE_ORPHANED_INITRDS=false
+AUTO_REMOVE_ORPHANED_INITRDS=true
+
+# Should we automatically clean up /boot/initrd-tree, if mkinitrd has left
+# such a directory behind after generating the initrd? The /boot/initrd-tree
+# directory can be useful for making a few changes and regenerating the
+# initrd, but most users probably do not need it.
+AUTO_REMOVE_INITRD_TREE=true
 
 # Run update-grub after generating the initrd?
 AUTO_UPDATE_GRUB=true

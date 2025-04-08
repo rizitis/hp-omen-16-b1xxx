@@ -38,7 +38,7 @@ SBOPKG_CONF=${SBOPKG_CONF:-/etc/sbopkg/sbopkg.conf}
 . /usr/libexec/sbopkg/sqg/functions
 
 SCRIPT=${0##*/}
-OPT_JOBS=$(getconf _NPROCESSORS_ONLN)
+OPT_JOBS=$(( $(getconf _NPROCESSORS_ONLN) / 2 ))
 OPT_ALL="no"
 OPT_PACKAGES=""
 OPT_OUTPUT=""
