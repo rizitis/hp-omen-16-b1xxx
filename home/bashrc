@@ -1,8 +1,19 @@
 #!/bin/bash
 . /etc/profile
 
+# start sun daemon
+#if [ -x /usr/bin/sun ]; then
+#sun start
+#fi
+
 #[ -f /etc/profile.d/bash_completion.sh ] && . /etc/profile.d/bash_completion.sh
 complete -cf sudo
+
+
+# FOR TESTING THINGS ELSE COMMENT
+#export LANG=el_GR.UTF-8
+#export LANGUAGE=el_GR:el
+
 
 
 ##### = EXPORTS = ####
@@ -11,13 +22,12 @@ complete -cf sudo
 #export MOZ_DISABLE_RDD_SANDBOX=1
 #export MOZ_X11_EGL=1
 #export MOZ_WEBRENDER=1
-export PYTHONPATH=/usr/lib/python3.11:$PYTHONPATH
+#export PYTHONPATH=/usr/lib/python3.11:$PYTHONPATH
 export PERL5LIB=/usr/share/texinfo
-export GOROOT=/usr/lib64/go1.23.4/go
-export GOPATH=$HOME/go
-export GOBIN=$HOME/go/bin
-export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
-
+#export GOROOT=/usr/lib64/go1.23.4/go
+#export GOPATH=$HOME/go
+#export GOBIN=$HOME/go/bin
+#export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
 
 export PATH="$PATH:/home/omen/.local/bin"
 export PATH="/usr/sbin:$PATH"
@@ -42,11 +52,15 @@ export VIM="/usr/share/vim"
 export PATH=$PATH:/home/omen/.npm-global/bin
 #export PATH="$HOME/.npm-global/bin:$PATH"
 #export NODE_PATH=$HOME/node_modules
+export PATH="$PATH:$HOME/.local/share/gem/ruby/3.4.0/bin"
 
 
 
 #### = ALIAS = ####
-
+alias whatismyip="curl https://ipinfo.io/"
+alias last_installed="/bin/ls -tr /var/adm/packages/ | tail -10"
+alias git_token="cat ~/.git-credentials"
+alias c_ld_path="echo 'export LD_LIBRARY_PATH=/usr/local/bin/FODLER_NAME:s{LD_LIBRARY_PATH}'"
 alias gpurec="prime-run gpu-screen-recorder -w screen -f 144 -a default_output -o "$HOME"/Videos/my.mp4"
 alias torpath="echo '--remove-rpaths'"
 alias clean-tmp="sudo rm -rf /tmp/* --exclude='/tmp/dbus-*'"
@@ -168,7 +182,8 @@ alias logs="sudo find /var/log -type f -exec file {} \; | grep 'text' | cut -d' 
 alias krnl="uname -r"
 alias cpu="grep 'cpu ' /proc/stat | awk '{usage=(\$2+\$4)*100/(\$2+\$4+\$5)} END {print usage}' | awk '{printf(\"%.1f\n\", \$1)}'"
 alias gitfix="git fetch &&  git reset --hard origin/main"
-
+alias asuser="echo 'who -T | awk '/+/{print $1}' | head -1' "
+alias userdbus="echo 'DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/$(id -u $TUSER)/bus notify-send dolarpapaki'"
 
 # find deps for official slackware packages using salixos tools...
 dep() {
