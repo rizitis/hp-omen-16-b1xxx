@@ -183,7 +183,9 @@ alias krnl="uname -r"
 alias cpu="grep 'cpu ' /proc/stat | awk '{usage=(\$2+\$4)*100/(\$2+\$4+\$5)} END {print usage}' | awk '{printf(\"%.1f\n\", \$1)}'"
 alias gitfix="git fetch &&  git reset --hard origin/main"
 alias asuser="echo 'who -T | awk '/+/{print $1}' | head -1' "
+alias mp42giff="echo 'ffmpeg -i input.mp4 -vf "fps=10,scale=480:-1:flags=lanczos" -c:v gif output.gif'"
 alias userdbus="echo 'DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/$(id -u $TUSER)/bus notify-send dolarpapaki'"
+alias sedathos="echo 'find ./ -type f -name "*.ini" -exec sed -i 's/\bHERE\b//g' {} +'"
 
 # find deps for official slackware packages using salixos tools...
 dep() {
@@ -315,7 +317,7 @@ extract () {
 				*.tbz2)      tar xvjf $archive    ;;
 				*.tgz)       tar xvzf $archive    ;;
 				*.txz)       tar xvzf $archive    ;;
-				*.tlz)       tar xvzf $archive    ;;
+				*.tlz)       tar --lzip -xvf $archive ;;
 				*.zip)       unzip $archive       ;;
 				*.Z)         uncompress $archive  ;;
 				*.7z)        7z x $archive        ;;
@@ -324,7 +326,7 @@ extract () {
                 *.AppImage)   chmod +x $archive ; ./$archive  --appimage-extract ;;
                 *.pkg.tar.zst) tar --use-compress-program=unzstd -xf $archive ;;
                 *.deb)       ar x $archive ;;
-				*)           echo "don't know how to extract '$archive'..." ;;
+				*)           tar --auto-compress -xvf $archive ;;
 			esac
 		else
 			echo "'$archive' is not a valid file!"
