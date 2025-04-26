@@ -194,16 +194,14 @@ dep() {
 
 
 slpkg() {
+    local cmd
     if [[ "$1" == "-s" && -n "$2" ]]; then
-        # Execute slpkg with -o '*' when using -s
-       sudo  /usr/sbin/slpkg -s "$2" -o '*'
+        cmd="/usr/sbin/slpkg -s $(printf "%q" "$2") -o '*'"
     else
-        # Execute normally for other commands
-       sudo  /usr/sbin/slpkg "$@"
+        cmd="/usr/sbin/slpkg $(printf "%q " "$@")"
     fi
+    su - root -c "$cmd"
 }
-
-
 
 timewall_startup() {
 if [ -x /usr/local/bin/timewall ]; then
