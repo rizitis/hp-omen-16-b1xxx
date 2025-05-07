@@ -1,10 +1,6 @@
 #!/bin/bash
 . /etc/profile
 
-# start sun daemon
-#if [ -x /usr/bin/sun ]; then
-#sun start
-#fi
 
 #[ -f /etc/profile.d/bash_completion.sh ] && . /etc/profile.d/bash_completion.sh
 complete -cf sudo
