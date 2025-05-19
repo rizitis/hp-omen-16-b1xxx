@@ -1,0 +1,19 @@
+[Desktop Entry]
+Categories=Development;
+Comment[en_US]=GitHub notifications on your menu bar.
+Comment=GitHub notifications on your menu bar.
+Exec=env env LD_LIBRARY_PATH=/opt/Gitify/ /opt/Gitify/gitify %U
+GenericName[en_US]=
+GenericName=
+Icon=gitify
+MimeType=
+Name[en_US]=Gitify
+Name=Gitify
+Path=
+StartupNotify=true
+StartupWMClass=Gitify
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

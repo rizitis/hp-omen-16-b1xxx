@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=/home/omen/Bin/set-default-audio.sh
+Icon=application-x-shellscript
+Name=set-default-audio.sh
+Type=Application
+X-KDE-AutostartScript=true

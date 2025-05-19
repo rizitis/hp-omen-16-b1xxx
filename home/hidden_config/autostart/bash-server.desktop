@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=bash-language-server
+Exec=/opt/bash-language-server.sh
+Terminal=false
+Type=Application
+Icon=bash-language-server
+StartupWMClass=bash-language-server
+Comment=bash-language-server
+Categories=Development;
